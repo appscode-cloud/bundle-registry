@@ -14,11 +14,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-GCP_PROJECT=appscode-domains
-BUCKET=bytebuilders-bundles
+GCP_PROJECT=${GCP_PROJECT:-appscode-domains}
+BUCKET=${BUCKET:-bytebuilders-bundles}
 
-REPO_DOMAIN=bundles.byte.builders
-REPO_DIR=stable
+REPO_DOMAIN=${REPO_DOMAIN:-bundles.byte.builders}
+REPO_DIR=${REPO_DIR:-stable}
 REPO_URL=https://${REPO_DOMAIN}/${REPO_DIR}/
 
 # ref: https://gist.github.com/joshisa/297b0bc1ec0dcdda0d1625029711fa24
