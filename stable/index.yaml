@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   stash-community:
   - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.857632359Z"
+    description: Stash Community Plan
+    digest: e1af9fd86ffbd7f2f2b6347d713fac03c96fb57d1f4d0fbb63778030076292f2
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2020.09.16.tgz
+    version: v2020.09.16
+  - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.509546899Z"
     description: Stash Community Plan
@@ -70,6 +87,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-community/stash-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-elasticsearch-community:
+  - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.857853757Z"
+    description: Stash Elasticsearch Addon Community Plan
+    digest: 65470c5076eafd3962ce4548e5dacc6b5cfe5d86d5dbc6816cfa038742f4b46e
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-elasticsearch-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.09.16.tgz
+    version: v2020.09.16
   - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.509968304Z"
@@ -140,6 +174,23 @@ entries:
     version: v2020.08.26-rc.0
   stash-enterprise:
   - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.858062154Z"
+    description: Stash Enterprise Plan
+    digest: de90164266b3a68c5b4c88960d888ed6c83db1a89822dcdb450216ce66c70b9f
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2020.09.16.tgz
+    version: v2020.09.16
+  - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.51037261Z"
     description: Stash Enterprise Plan
@@ -208,6 +259,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-mongodb-community:
+  - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.858271351Z"
+    description: Stash MongoDB Addon Community Plan
+    digest: bc190bdf1f12f4751cec52c50e23035b1148a2a447b0ccde46590d8afee473e1
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-mongodb-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-mongodb-community/stash-mongodb-community-v2020.09.16.tgz
+    version: v2020.09.16
   - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.510776415Z"
@@ -278,6 +346,23 @@ entries:
     version: v2020.08.26-rc.0
   stash-mysql-community:
   - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.858474749Z"
+    description: Stash MySQL Addon Community
+    digest: 8212ecb8bedfc811034f7c051318927c167c58eed72374e5c8952b91c754ad14
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-mysql-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-mysql-community/stash-mysql-community-v2020.09.16.tgz
+    version: v2020.09.16
+  - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.511404524Z"
     description: Stash MySQL Addon Community
@@ -346,6 +431,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-mysql-community/stash-mysql-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-percona-xtradb-community:
+  - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.858680646Z"
+    description: Stash Percona XtraDB Addon Community Plan
+    digest: 93b82248f8098d2ada437700ddbe04e4afe556e48392fa608d1a178ea2ee4686
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-percona-xtradb-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-percona-xtradb-community/stash-percona-xtradb-community-v2020.09.16.tgz
+    version: v2020.09.16
   - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.511734528Z"
@@ -416,6 +518,23 @@ entries:
     version: v2020.08.26-rc.0
   stash-postgres-community:
   - apiVersion: v2
+    appVersion: v2020.09.16
+    created: "2020-09-16T18:47:29.858924643Z"
+    description: Stash PostgreSQL Addon Community Plan
+    digest: fe0d25aefd92f43319f505fa2c6e0324389c31ad96c032b2c8e4619f342d345e
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-postgres-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.09.16.tgz
+    version: v2020.09.16
+  - apiVersion: v2
     appVersion: v2020.08.27
     created: "2020-08-27T20:13:06.512068433Z"
     description: Stash PostgreSQL Addon Community Plan
@@ -483,4 +602,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2020-08-27T20:13:06.507858476Z"
+generated: "2020-09-16T18:47:29.857159665Z"
