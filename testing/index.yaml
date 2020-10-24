@@ -20,6 +20,23 @@ entries:
     version: v2020.07.09-beta.0
   kubedb-community:
   - apiVersion: v2
+    appVersion: v2020.10.24-beta.0
+    created: "2020-10-24T16:12:50.199788476Z"
+    description: KubeDB Community Plan
+    digest: 0cdcc7f4f8a36ec11fd0e258bb2cc16d2af3d6a7ece34c78453ccdc48186a8b2
+    home: https://kubedb.com
+    icon: https://cdn.appscode.com/images/icon/kubedb.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedb-community
+    sources:
+    - https://github.com/kubedb
+    type: application
+    urls:
+    - https://bundles.byte.builders/testing/kubedb-community/kubedb-community-v2020.10.24-beta.0.tgz
+    version: v2020.10.24-beta.0
+  - apiVersion: v2
     appVersion: v2020.09.04-beta.0
     created: "2020-09-04T03:53:46.938157572Z"
     description: KubeDB Community Plan
@@ -54,6 +71,23 @@ entries:
     - https://bundles.byte.builders/testing/kubedb-community/kubedb-community-v2020.07.10-beta.0.tgz
     version: v2020.07.10-beta.0
   kubedb-enterprise:
+  - apiVersion: v2
+    appVersion: v2020.10.24-beta.0
+    created: "2020-10-24T16:12:50.200859386Z"
+    description: KubeDB Enterprise Plan
+    digest: c32b16e4a1a5e43d3905ff32e0b0e1d3d62a2a8ca89a49d105a13e57741071a8
+    home: https://kubedb.com
+    icon: https://cdn.appscode.com/images/icon/kubedb.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedb-enterprise
+    sources:
+    - https://github.com/kubedb
+    type: application
+    urls:
+    - https://bundles.byte.builders/testing/kubedb-enterprise/kubedb-enterprise-v2020.10.24-beta.0.tgz
+    version: v2020.10.24-beta.0
   - apiVersion: v2
     appVersion: v2020.09.04-beta.0
     created: "2020-09-04T03:53:46.938472674Z"
@@ -351,4 +385,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2020.07.09-beta.0.tgz
     version: v2020.07.09-beta.0
-generated: "2020-09-04T03:53:46.937605967Z"
+generated: "2020-10-24T16:12:50.198582753Z"
