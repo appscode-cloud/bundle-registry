@@ -14,7 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-GCP_PROJECT=${GCP_PROJECT:-appscode-domains}
+CLOUDFLARE_ZONE_ID=01cdd393ad1176cb546a77184b9e9759
+
 BUCKET=${BUCKET:-bundles.byte.builders}
 
 REPO_DOMAIN=${REPO_DOMAIN:-bundles.byte.builders}
