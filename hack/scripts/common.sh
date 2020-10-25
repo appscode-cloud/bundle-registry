@@ -15,7 +15,7 @@
 # limitations under the License.
 
 GCP_PROJECT=${GCP_PROJECT:-appscode-domains}
-BUCKET=${BUCKET:-bytebuilders-bundles}
+BUCKET=${BUCKET:-bundles.byte.builders}
 
 REPO_DOMAIN=${REPO_DOMAIN:-bundles.byte.builders}
 REPO_DIR=${REPO_DIR:-stable}
