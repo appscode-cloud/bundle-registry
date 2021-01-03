@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   kubedb-community:
   - apiVersion: v2
+    appVersion: v2021.01.02-rc.0
+    created: "2021-01-03T11:53:05.211786578Z"
+    description: KubeDB Community Plan
+    digest: c69c1f9865ad1ff6ceacd7e6ca1efe7fb5ce0652274d344977a1383741d0f333
+    home: https://kubedb.com
+    icon: https://cdn.appscode.com/images/icon/kubedb.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedb-community
+    sources:
+    - https://github.com/kubedb
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/kubedb-community/kubedb-community-v2021.01.02-rc.0.tgz
+    version: v2021.01.02-rc.0
+  - apiVersion: v2
     appVersion: v2020.12.10
     created: "2020-12-10T13:55:25.263191546Z"
     description: KubeDB Community Plan
@@ -138,6 +155,23 @@ entries:
     - https://bundles.byte.builders/stable/kubedb-community/kubedb-community-v2020.10.27-rc.0.tgz
     version: v2020.10.27-rc.0
   kubedb-enterprise:
+  - apiVersion: v2
+    appVersion: v2021.01.02-rc.0
+    created: "2021-01-03T11:53:05.212110482Z"
+    description: KubeDB Enterprise Plan
+    digest: c81e835e6cfe667aa8b983b7f2f9c9a5f0bd7bd03c4bf71865da21aafe721667
+    home: https://kubedb.com
+    icon: https://cdn.appscode.com/images/icon/kubedb.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedb-enterprise
+    sources:
+    - https://github.com/kubedb
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/kubedb-enterprise/kubedb-enterprise-v2021.01.02-rc.0.tgz
+    version: v2021.01.02-rc.0
   - apiVersion: v2
     appVersion: v2020.12.10
     created: "2020-12-10T13:55:25.263498946Z"
@@ -1744,4 +1778,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2020-12-17T23:24:07.647151588Z"
+generated: "2021-01-03T11:53:05.211242372Z"
