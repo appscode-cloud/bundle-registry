@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  mongodb-editor-options:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-01-09T20:07:25.866639119Z"
+    description: MongoDB Editor UI Options
+    digest: 1732a11d9826ba609b9b14bf186b5778b18744c5ae8a93ee5370b3a65bf143a7
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: mongodb-editor-options
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/mongodb-editor-options/mongodb-editor-options-v0.1.0.tgz
+    version: v0.1.0
+generated: "2021-01-09T20:07:25.861052003Z"
