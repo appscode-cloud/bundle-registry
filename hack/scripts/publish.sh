@@ -31,7 +31,7 @@ source $SCRIPT_ROOT/hack/scripts/common.sh
 function publish_dir() {
     repo_dir=$1
 
-    [ -d "$repo_dir" ] || {
+    ([ -d "$repo_dir" ] && [ -f "$repo_dir/index.yaml" ]) || {
         echo "charts not found"
         return 0
     }
@@ -55,7 +55,7 @@ function publish_dir() {
     fi
 }
 
-for repo_dir in stable testing; do
+for repo_dir in *; do
     publish_dir $repo_dir
 done
 
