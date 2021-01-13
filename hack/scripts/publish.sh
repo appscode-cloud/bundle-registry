@@ -51,7 +51,8 @@ function publish_dir() {
         curl -X POST "https://api.cloudflare.com/client/v4/zones/${CLOUDFLARE_ZONE_ID}/purge_cache" \
             -H "Authorization: Bearer ${CLOUDFLARE_TOKEN}" \
             -H "Content-Type: application/json" \
-            --data '{"files":["'${index_url}'"]}'
+            --data '{"purge_everything":true}'
+            # --data '{"files":["'${index_url}'"]}'
     fi
 }
 
