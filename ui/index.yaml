@@ -1,11 +1,30 @@
 apiVersion: v1
 entries:
+  mongodb-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-01-13T04:24:47.77935755Z"
+    description: Ui Wizard Chart
+    digest: c24560fbf97c594a6acbfc8f657a72bf90f28ca0e0d5c655efa023c2e7461b9f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: mongodb-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/mongodb-editor/mongodb-editor-v0.1.0.tgz
+    version: v0.1.0
   mongodb-editor-options:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-01-11T00:03:07.129970602Z"
+    created: "2021-01-13T04:24:47.781867062Z"
     description: MongoDB Editor UI Options
-    digest: 2bc8236e30757deccd4d7471e571ffc12047987d14113e82fc6a3f9e7008539b
+    digest: d5c4720541702e667646b22dfbb6be58108655c0a8a83ccc0805a11fc5357f58
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
     maintainers:
@@ -16,4 +35,4 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/mongodb-editor-options/mongodb-editor-options-v0.1.0.tgz
     version: v0.1.0
-generated: "2021-01-11T00:03:07.126073292Z"
+generated: "2021-01-13T04:24:47.774080623Z"
