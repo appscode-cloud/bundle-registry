@@ -3,9 +3,9 @@ entries:
   mongodb-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-01-21T06:17:57.500963931Z"
+    created: "2021-01-29T11:35:17.626948678Z"
     description: Ui Wizard Chart
-    digest: 50766d301e57e102db29b3958567a06d783794153d2a3e8052daf297dd119f57
+    digest: 4371d5e3a2e859471d9cff3cf2827712444309f08ed80e49e6b94906e9d702c5
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -22,9 +22,9 @@ entries:
   mongodb-editor-options:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-01-21T06:17:57.503000536Z"
+    created: "2021-01-29T11:35:17.629661376Z"
     description: MongoDB Editor UI Options
-    digest: 0b691cfa73626e2443942afde1a26c1e799a122c48afc33f4dceba44d244d677
+    digest: 88473a19f93722bdb60b73a6c41fa4fd295aca4c37a6a4698d18a4e3912c17c1
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
     maintainers:
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/mongodb-editor-options/mongodb-editor-options-v0.1.0.tgz
     version: v0.1.0
-generated: "2021-01-21T06:17:57.495581716Z"
+generated: "2021-01-29T11:35:17.621827283Z"
