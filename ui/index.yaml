@@ -3,9 +3,9 @@ entries:
   mongodb-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-08T12:43:40.592219469Z"
+    created: "2021-02-12T10:15:04.47756041Z"
     description: Ui Wizard Chart
-    digest: df9914d48f2b4021f8d6a73d17b6d31f2e451f4f465db4db2183533f0a88a806
+    digest: 8971f2b38a70e6e0165f36d88249b4f5324f4d464ad3f3a68b8e5b7ea9dbdb3e
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -22,9 +22,9 @@ entries:
   mongodb-editor-options:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-08T12:43:40.594127892Z"
+    created: "2021-02-12T10:15:04.479457694Z"
     description: MongoDB Editor UI Options
-    digest: ba42e8983bf8a7feb19aaef61657752a2976a6e6b815ce30dc81f85644d756c1
+    digest: a4f4f1d7cbb0117680eff3bbcfa0c02fb140d38af760f7a6b1ac4fb77a742a79
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
     maintainers:
@@ -35,4 +35,20 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/mongodb-editor-options/mongodb-editor-options-v0.1.0.tgz
     version: v0.1.0
-generated: "2021-02-08T12:43:40.587630114Z"
+  mongodbopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-12T10:15:04.480495185Z"
+    description: MongoDB ops request Editor UI
+    digest: 6753d4c989916a63fc62575f169b7abb2b834324c4ebdacf607b4296dcbdc10c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: mongodbopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/mongodbopsrequest-editor/mongodbopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+generated: "2021-02-12T10:15:04.46484322Z"
