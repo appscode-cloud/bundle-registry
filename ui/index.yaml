@@ -1,0 +1,3110 @@
+apiVersion: v1
+entries:
+  acmecertmanagerio-challenge-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.504138793Z"
+    description: Challenge Editor
+    digest: bab3bcd8b92354b9ae8b0e9d2e9d42d4d3fa1d4f7a1934e091248b33e5ee74a7
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: acmecertmanagerio-challenge-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/acmecertmanagerio-challenge-editor/acmecertmanagerio-challenge-editor-v0.1.0.tgz
+    version: v0.1.0
+  acmecertmanagerio-order-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.504703897Z"
+    description: Order Editor
+    digest: 46926394ac79b14bd5fec70e469991d414e70d89aaf464e9a067c636c762e78f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: acmecertmanagerio-order-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/acmecertmanagerio-order-editor/acmecertmanagerio-order-editor-v0.1.0.tgz
+    version: v0.1.0
+  admissionregistrationk8sio-mutatingwebhookconfiguration-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.5052607Z"
+    description: MutatingWebhookConfiguration Editor
+    digest: 6eb1d2c1d145109e6de42b96dbb93e2ac53614ff6a5374101bca44e608737c03
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: admissionregistrationk8sio-mutatingwebhookconfiguration-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/admissionregistrationk8sio-mutatingwebhookconfiguration-editor/admissionregistrationk8sio-mutatingwebhookconfiguration-editor-v0.1.0.tgz
+    version: v0.1.0
+  admissionregistrationk8sio-validatingwebhookconfiguration-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.505839603Z"
+    description: ValidatingWebhookConfiguration Editor
+    digest: 64ba66dd196f79ffb21291cc1092f8ed3a1a0684d8ded2c16958066ff21c1f4e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: admissionregistrationk8sio-validatingwebhookconfiguration-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/admissionregistrationk8sio-validatingwebhookconfiguration-editor/admissionregistrationk8sio-validatingwebhookconfiguration-editor-v0.1.0.tgz
+    version: v0.1.0
+  apiextensionsk8sio-customresourcedefinition-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.506210105Z"
+    description: CustomResourceDefinition Editor
+    digest: be6c2cf978664101266a09280fcf2d075c56ac154a3702387ee463099919d789
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apiextensionsk8sio-customresourcedefinition-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apiextensionsk8sio-customresourcedefinition-editor/apiextensionsk8sio-customresourcedefinition-editor-v0.1.0.tgz
+    version: v0.1.0
+  apiregistrationk8sio-apiservice-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.506605207Z"
+    description: APIService Editor
+    digest: 4ef3b9354eb7254c779b49779140ba0194d7ae4989df637d3924de20ef79ca23
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apiregistrationk8sio-apiservice-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apiregistrationk8sio-apiservice-editor/apiregistrationk8sio-apiservice-editor-v0.1.0.tgz
+    version: v0.1.0
+  appcatalogappscodecom-appbinding-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.50705951Z"
+    description: AppBinding Editor
+    digest: 5b6f44ad337d8283a8f1b50b55b44d79dcdfa7a9c0fbff359d8f43e00e47b8ba
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: appcatalogappscodecom-appbinding-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/appcatalogappscodecom-appbinding-editor/appcatalogappscodecom-appbinding-editor-v0.1.0.tgz
+    version: v0.1.0
+  appk8sio-application-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.507604513Z"
+    description: Application Editor
+    digest: 47f64428e8133459dc140fb444ea4e30a56cd71e4d561931ab6d01ea3bb1be3c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: appk8sio-application-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/appk8sio-application-editor/appk8sio-application-editor-v0.1.0.tgz
+    version: v0.1.0
+  apps-controllerrevision-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.508019215Z"
+    description: ControllerRevision Editor
+    digest: aeff87a417dd1f6667b335098c64faa43330def4f9ba5fdb74abe136191f2285
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apps-controllerrevision-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apps-controllerrevision-editor/apps-controllerrevision-editor-v0.1.0.tgz
+    version: v0.1.0
+  apps-daemonset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.510387229Z"
+    description: DaemonSet Editor
+    digest: 904bf1fa6b16a30050d3d5cbc3ed49610d465e45de4ce3fd5092316dabc17e6e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apps-daemonset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apps-daemonset-editor/apps-daemonset-editor-v0.1.0.tgz
+    version: v0.1.0
+  apps-deployment-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.512649842Z"
+    description: Deployment Editor
+    digest: c54e5733727c1f5289107224739c71b34e8687141b22b4ad59610b115663b28b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apps-deployment-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apps-deployment-editor/apps-deployment-editor-v0.1.0.tgz
+    version: v0.1.0
+  apps-replicaset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.515233256Z"
+    description: ReplicaSet Editor
+    digest: f6a8a277f708f5803d5183391a5265b457b7dc1b11380aae5707bf86732122cc
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apps-replicaset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apps-replicaset-editor/apps-replicaset-editor-v0.1.0.tgz
+    version: v0.1.0
+  apps-statefulset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.517763171Z"
+    description: StatefulSet Editor
+    digest: 056e2f78ece2d8ab16b4059af70876080699d0c0eaef3bdd5279d875311d839e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: apps-statefulset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/apps-statefulset-editor/apps-statefulset-editor-v0.1.0.tgz
+    version: v0.1.0
+  auditregistrationk8sio-auditsink-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.518226273Z"
+    description: AuditSink Editor
+    digest: a558fa7cbb31bc44cc6a2b22f0e947597bec6a319298ef00c6e4f1f5a2ccc523
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: auditregistrationk8sio-auditsink-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/auditregistrationk8sio-auditsink-editor/auditregistrationk8sio-auditsink-editor-v0.1.0.tgz
+    version: v0.1.0
+  authenticationk8sio-tokenrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.518631075Z"
+    description: TokenRequest Editor
+    digest: 20d4af2fb45b207d28fb7eafa26ede1f0d31168bbcc4c05231c51d5907caa94b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: authenticationk8sio-tokenrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/authenticationk8sio-tokenrequest-editor/authenticationk8sio-tokenrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  authenticationk8sio-tokenreview-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.518989378Z"
+    description: TokenReview Editor
+    digest: 9d81c657271b3a28adceba9a12fd8ca1b24aa96cd8897e102c714566a997e555
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: authenticationk8sio-tokenreview-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/authenticationk8sio-tokenreview-editor/authenticationk8sio-tokenreview-editor-v0.1.0.tgz
+    version: v0.1.0
+  authorizationk8sio-localsubjectaccessreview-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.51936438Z"
+    description: LocalSubjectAccessReview Editor
+    digest: 9343d34748511de213e447c4a876b93921bc48fe625c93b7814759bf52c65ad8
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: authorizationk8sio-localsubjectaccessreview-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/authorizationk8sio-localsubjectaccessreview-editor/authorizationk8sio-localsubjectaccessreview-editor-v0.1.0.tgz
+    version: v0.1.0
+  authorizationk8sio-selfsubjectaccessreview-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.519735582Z"
+    description: SelfSubjectAccessReview Editor
+    digest: 3d8d08d8a03a65f3123fe07b25c9d2cdb35478ba3593f13694bc1cac97cc0adb
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: authorizationk8sio-selfsubjectaccessreview-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/authorizationk8sio-selfsubjectaccessreview-editor/authorizationk8sio-selfsubjectaccessreview-editor-v0.1.0.tgz
+    version: v0.1.0
+  authorizationk8sio-selfsubjectrulesreview-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.520126284Z"
+    description: SelfSubjectRulesReview Editor
+    digest: 1b458ea322d4c9e9c3d24850b9a883ec076f7502cd052a59539af76effad604c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: authorizationk8sio-selfsubjectrulesreview-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/authorizationk8sio-selfsubjectrulesreview-editor/authorizationk8sio-selfsubjectrulesreview-editor-v0.1.0.tgz
+    version: v0.1.0
+  authorizationk8sio-subjectaccessreview-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.520505286Z"
+    description: SubjectAccessReview Editor
+    digest: f7a0c9c41b7494fdee940655a64cf81700dcdb434c8a2092b0c1fd4ef190ae15
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: authorizationk8sio-subjectaccessreview-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/authorizationk8sio-subjectaccessreview-editor/authorizationk8sio-subjectaccessreview-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscaling-horizontalpodautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.521030389Z"
+    description: HorizontalPodAutoscaler Editor
+    digest: efcbe65cb6f1014d8d58ccba1f02028a1352ec8de1b8d993e2489cc7c4ef2c6c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscaling-horizontalpodautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscaling-horizontalpodautoscaler-editor/autoscaling-horizontalpodautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-elasticsearchautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.521404991Z"
+    description: ElasticsearchAutoscaler Editor
+    digest: b27a5a5cde956ddadcd6dbc7a1e9ac3b6c574be16afe4bdfeeb99ee952dfb1ce
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-elasticsearchautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-elasticsearchautoscaler-editor/autoscalingkubedbcom-elasticsearchautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-etcdautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.521881394Z"
+    description: EtcdAutoscaler Editor
+    digest: ee7f597b48f6202ded1959e8046064e606688da8b09ab58bb983778c2c58d99d
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-etcdautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-etcdautoscaler-editor/autoscalingkubedbcom-etcdautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-mariadbautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.522326696Z"
+    description: MariaDBAutoscaler Editor
+    digest: d84d03a04b4746e9a5b57df4fb26cb81f8038dd13e5fcfef277d33730a841be5
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-mariadbautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-mariadbautoscaler-editor/autoscalingkubedbcom-mariadbautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-memcachedautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.522786299Z"
+    description: MemcachedAutoscaler Editor
+    digest: 9d185f6e2cb17fc9ea71ccdcaadb5d82cbc4ae0abf1942700bd7b4ec2eb48229
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-memcachedautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-memcachedautoscaler-editor/autoscalingkubedbcom-memcachedautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-mongodbautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.523195401Z"
+    description: MongoDBAutoscaler Editor
+    digest: 55a222ddb97bdeaf7bd5174e1e8b44941066a6f01226bc1dda9bc91db74a41ed
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-mongodbautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-mongodbautoscaler-editor/autoscalingkubedbcom-mongodbautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-mysqlautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.523615604Z"
+    description: MySQLAutoscaler Editor
+    digest: 9a1617a8bc647e13e68f9bee2d608b1e09e88939da617664cba8a09d1ca96d8c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-mysqlautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-mysqlautoscaler-editor/autoscalingkubedbcom-mysqlautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-perconaxtradbautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.524078806Z"
+    description: PerconaXtraDBAutoscaler Editor
+    digest: ece6496c6add2dfa12bedc8ac35f5c4e08c188da24bc03067f63c1a01cbbcabe
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-perconaxtradbautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-perconaxtradbautoscaler-editor/autoscalingkubedbcom-perconaxtradbautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-pgbouncerautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.524579009Z"
+    description: PgBouncerAutoscaler Editor
+    digest: b6457fc4230a4609db16c6d77579dbd2320f74f7c5cc3edbef8ad96b377f0da5
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-pgbouncerautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-pgbouncerautoscaler-editor/autoscalingkubedbcom-pgbouncerautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-postgresautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.525018712Z"
+    description: PostgresAutoscaler Editor
+    digest: dc5798f9fb26010dec29f4ee29282b7ea28a0f184a7f95716cbfb16683d1facb
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-postgresautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-postgresautoscaler-editor/autoscalingkubedbcom-postgresautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-proxysqlautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.525468314Z"
+    description: ProxySQLAutoscaler Editor
+    digest: 63523e4ac4c2d970c188b00d6751a5cd357d0fce5478ac83f700419cd90783ee
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-proxysqlautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-proxysqlautoscaler-editor/autoscalingkubedbcom-proxysqlautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-redisautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.526277519Z"
+    description: RedisAutoscaler Editor
+    digest: 6d953f123e869148158f082cec4b9e97995e9509fa8555b221690dc681cfb46a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-redisautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-redisautoscaler-editor/autoscalingkubedbcom-redisautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-verticalautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.526829522Z"
+    description: VerticalAutoscaler Editor
+    digest: b48e1a963ceea9a2e66dfcce1b6c29f1628fd763eabf3aaa03cb36b708a8377b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-verticalautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-verticalautoscaler-editor/autoscalingkubedbcom-verticalautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingkubedbcom-verticalautoscalercheckpoint-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.527315925Z"
+    description: VerticalAutoscalerCheckpoint Editor
+    digest: 76f0e5f9c45db44a92cba35ca408fa7ee6a3b463972b78078ddfad223c46182f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingkubedbcom-verticalautoscalercheckpoint-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingkubedbcom-verticalautoscalercheckpoint-editor/autoscalingkubedbcom-verticalautoscalercheckpoint-editor-v0.1.0.tgz
+    version: v0.1.0
+  batch-cronjob-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.53008514Z"
+    description: CronJob Editor
+    digest: 697e22b4a94c0975fb07eb7e4d71db19a337a0d7de2f3edd26de0d5ae5e0d1ac
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: batch-cronjob-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/batch-cronjob-editor/batch-cronjob-editor-v0.1.0.tgz
+    version: v0.1.0
+  batch-job-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.532467854Z"
+    description: Job Editor
+    digest: da57326ba4bcd7f0da7f63d008e73aae16501a9d9dd8a48c815e10d24f5dbd82
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: batch-job-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/batch-job-editor/batch-job-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-elasticsearchversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.532842656Z"
+    description: ElasticsearchVersion Editor
+    digest: b260325958c70fe0a1a680ce0b01375ad1c1142b49bc529b2f62b58e28614f19
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-elasticsearchversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-elasticsearchversion-editor/catalogkubedbcom-elasticsearchversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-etcdversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.533173058Z"
+    description: EtcdVersion Editor
+    digest: 5075338c39f03989e3c77522bf553b119265fc8112f3d7b44e8f7e9f17fecc4a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-etcdversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-etcdversion-editor/catalogkubedbcom-etcdversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-mariadbversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.53349846Z"
+    description: MariaDBVersion Editor
+    digest: 2ca98d050e2d65f33f880e3513adfc5418c316c07fd5985bd4a1a7c12617627a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-mariadbversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-mariadbversion-editor/catalogkubedbcom-mariadbversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-memcachedversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.533863862Z"
+    description: MemcachedVersion Editor
+    digest: b1a97711f569d616896ba42f858674dea8acce4eacbfdb0c694843699a3743ab
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-memcachedversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-memcachedversion-editor/catalogkubedbcom-memcachedversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-mongodbversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.534234664Z"
+    description: MongoDBVersion Editor
+    digest: 02fb2b97f2d402ad57b56a578c1a69c0fb18f0ee269d9222659beace2a191cb4
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-mongodbversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-mongodbversion-editor/catalogkubedbcom-mongodbversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-mysqlversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.534625366Z"
+    description: MySQLVersion Editor
+    digest: 74b84edf52ffe30fe8c05cb2addc8314c0b7e76b73dbd0498cab8cf2e5e47bdb
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-mysqlversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-mysqlversion-editor/catalogkubedbcom-mysqlversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-perconaxtradbversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.535018668Z"
+    description: PerconaXtraDBVersion Editor
+    digest: 1237b171ec2927ef12759409a041f26c78e8c78f543715d9921067a96ea0161b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-perconaxtradbversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-perconaxtradbversion-editor/catalogkubedbcom-perconaxtradbversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-pgbouncerversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.53536557Z"
+    description: PgBouncerVersion Editor
+    digest: a447261844d78657b325370c10042675b1f919132698580f1f207c626e6ba1de
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-pgbouncerversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-pgbouncerversion-editor/catalogkubedbcom-pgbouncerversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-postgresversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.535730372Z"
+    description: PostgresVersion Editor
+    digest: 33c997411228a9322be106a51896c10b9a3195e49d581ea8f4dfa74099030fad
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-postgresversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-postgresversion-editor/catalogkubedbcom-postgresversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-proxysqlversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.536125175Z"
+    description: ProxySQLVersion Editor
+    digest: 97dbd6c85050c1002be135f56f21353db4772584296f29bfee264ba7b32f2b4f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-proxysqlversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-proxysqlversion-editor/catalogkubedbcom-proxysqlversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubedbcom-redisversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.536459777Z"
+    description: RedisVersion Editor
+    digest: 29f14dee780c28233b46689c50c5c7a2141ed03ef00646dd00fa1e195467aa77
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubedbcom-redisversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubedbcom-redisversion-editor/catalogkubedbcom-redisversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  catalogkubevaultcom-vaultserverversion-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.536821379Z"
+    description: VaultServerVersion Editor
+    digest: fddbdc6fe781912614a21d4e94b5afdac33f4fc85ed1345384edf8ea89b26504
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: catalogkubevaultcom-vaultserverversion-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/catalogkubevaultcom-vaultserverversion-editor/catalogkubevaultcom-vaultserverversion-editor-v0.1.0.tgz
+    version: v0.1.0
+  certificatesk8sio-certificatesigningrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.537157781Z"
+    description: CertificateSigningRequest Editor
+    digest: 1df312eecff91f49e20f22490659944fb6fac89febd2252fab72e11b691b9814
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: certificatesk8sio-certificatesigningrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/certificatesk8sio-certificatesigningrequest-editor/certificatesk8sio-certificatesigningrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  certmanagerio-certificate-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.537664783Z"
+    description: Certificate Editor
+    digest: 43c48792119313c653b342bde72d192ee0cd036a02c985e48f452eb476f8f2e5
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: certmanagerio-certificate-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/certmanagerio-certificate-editor/certmanagerio-certificate-editor-v0.1.0.tgz
+    version: v0.1.0
+  certmanagerio-certificaterequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.538132186Z"
+    description: CertificateRequest Editor
+    digest: 7b6dacf399dd94df39c189f1bdc85d30a90cd8fdaec5c364b27ca5dd0ab13552
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: certmanagerio-certificaterequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/certmanagerio-certificaterequest-editor/certmanagerio-certificaterequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  certmanagerio-clusterissuer-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.539299693Z"
+    description: ClusterIssuer Editor
+    digest: 509f6b0ebb041557244febd9cbb38d4d73feed369a4093dfc04fd9950355be73
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: certmanagerio-clusterissuer-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/certmanagerio-clusterissuer-editor/certmanagerio-clusterissuer-editor-v0.1.0.tgz
+    version: v0.1.0
+  certmanagerio-issuer-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.540822301Z"
+    description: Issuer Editor
+    digest: d23ac6e0f47a8c5685202cff0f44718bb0d87017a46c22dbb2a704b53b290c05
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: certmanagerio-issuer-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/certmanagerio-issuer-editor/certmanagerio-issuer-editor-v0.1.0.tgz
+    version: v0.1.0
+  clusterxk8sio-machine-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.541251804Z"
+    description: Machine Editor
+    digest: 7db9dbe066c1aed4d585ee712ebac943b3694a3a73def49be87b0f6afb1292d2
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: clusterxk8sio-machine-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/clusterxk8sio-machine-editor/clusterxk8sio-machine-editor-v0.1.0.tgz
+    version: v0.1.0
+  clusterxk8sio-machineset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.541674006Z"
+    description: MachineSet Editor
+    digest: 3bd2af491d5c26f8a242e17d5bc4c757a7a97bd69ebf02cfff081e8490bd8a1e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: clusterxk8sio-machineset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/clusterxk8sio-machineset-editor/clusterxk8sio-machineset-editor-v0.1.0.tgz
+    version: v0.1.0
+  coordinationk8sio-lease-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.542193209Z"
+    description: Lease Editor
+    digest: bae6e1f5ba56edcb44583af7a5fd8d3afa994c4e770d58d8eecfdc02adfc83d7
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: coordinationk8sio-lease-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/coordinationk8sio-lease-editor/coordinationk8sio-lease-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-binding-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.543177715Z"
+    description: Binding Editor
+    digest: cd5e3df10346c927c2a6c13425427d1f4ba8bc3b68fe5c276a762b692b1be789
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-binding-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-binding-editor/core-binding-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-componentstatus-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.543518817Z"
+    description: ComponentStatus Editor
+    digest: 66ac47dc09226b67b60405888de1c7222712334520482285e78dc7cb1890d5bd
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-componentstatus-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-componentstatus-editor/core-componentstatus-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-configmap-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.543822018Z"
+    description: ConfigMap Editor
+    digest: 2474dcf4b5f5c7d325e1cf2035c7f0fb1ea4bda5d04305dca6f1070fdfe442c6
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-configmap-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-configmap-editor/core-configmap-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-endpoints-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.544244021Z"
+    description: Endpoints Editor
+    digest: 19a94459cd0843cfc805d23194e5b18ec7e0043d16898c3444a0c75daa28ca9f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-endpoints-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-endpoints-editor/core-endpoints-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-ephemeralcontainers-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.544980525Z"
+    description: EphemeralContainers Editor
+    digest: 90bafd0c5f90d25bfcabf85870eea141742915e5ea80b86b50475c37b6893a33
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-ephemeralcontainers-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-ephemeralcontainers-editor/core-ephemeralcontainers-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-event-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.545340027Z"
+    description: Event Editor
+    digest: dcb2f18c42628a4abd2cb3e482c27b1f9af3257456b7665532710e2864fbb4f9
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-event-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-event-editor/core-event-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-limitrange-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.545656129Z"
+    description: LimitRange Editor
+    digest: 1ce549320ca65d03cb80eeacc95882eea6dd8eee7ba2a0c8eb51c717748c5f59
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-limitrange-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-limitrange-editor/core-limitrange-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-namespace-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.54595773Z"
+    description: Namespace Editor
+    digest: cbf3e25f92231e8ce811eb4ae182e2473e8f024973a08106c3067cf9c2229a50
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-namespace-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-namespace-editor/core-namespace-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-node-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.546378833Z"
+    description: Node Editor
+    digest: b63aa03528e6f226736d005f7b396b79c494e321f3acab47cdddb38fcc3489d8
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-node-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-node-editor/core-node-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-persistentvolume-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.547124837Z"
+    description: PersistentVolume Editor
+    digest: bea7c38c4b3b5b2a3996cf0a31cdab08944524e00f596d25f42dc2d79471349a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-persistentvolume-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-persistentvolume-editor/core-persistentvolume-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-persistentvolumeclaim-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.54758474Z"
+    description: PersistentVolumeClaim Editor
+    digest: b480873fbef2266f000f2236b4dbc8a3de76bf6bc63ebfe9b5631c362ddddf59
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-persistentvolumeclaim-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-persistentvolumeclaim-editor/core-persistentvolumeclaim-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-pod-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.549700052Z"
+    description: Pod Editor
+    digest: 145cfe00f1feeb939da91c1099453e26ca0dffe73fdba0d5cba74393965dafc6
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-pod-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-pod-editor/core-pod-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-podstatusresult-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.550149454Z"
+    description: PodStatusResult Editor
+    digest: 71880c0d6e2034412232a7356f6afd307dd6df1eefe33f4dcdf2a746c458d578
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-podstatusresult-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-podstatusresult-editor/core-podstatusresult-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-rangeallocation-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.550556956Z"
+    description: RangeAllocation Editor
+    digest: 112f00178da69868fef8a9520554eab42d24c8fab64549e3f1427258f05dbfdd
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-rangeallocation-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-rangeallocation-editor/core-rangeallocation-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-replicationcontroller-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.553040771Z"
+    description: ReplicationController Editor
+    digest: cf6bd23d6370818ae5d411ed5a8e71e1e3de31b7fb07e769bc9878707c7be631
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-replicationcontroller-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-replicationcontroller-editor/core-replicationcontroller-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-resourcequota-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.553551073Z"
+    description: ResourceQuota Editor
+    digest: b752eedeaac3dfdd8ab005a9f0da47d160884e754ae6460b0c20f496d2b469f6
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-resourcequota-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-resourcequota-editor/core-resourcequota-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-secret-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.553971976Z"
+    description: Secret Editor
+    digest: 5d7d6dce100cd05dcdca4767dcb5df4a84f3c6ae04285ad09ecdddce930ca125
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-secret-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-secret-editor/core-secret-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-service-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.554597179Z"
+    description: Service Editor
+    digest: 8b0cae4a64da2929724ed6e7531da6950b94fe3e3a0dd378ca3126113bd88079
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-service-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-service-editor/core-service-editor-v0.1.0.tgz
+    version: v0.1.0
+  core-serviceaccount-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.555106582Z"
+    description: ServiceAccount Editor
+    digest: 4da8cf01a21455ae5acfbab74f36d81d5e3992e8ba5db6b5b1c7e31c223fb2d2
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: core-serviceaccount-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/core-serviceaccount-editor/core-serviceaccount-editor-v0.1.0.tgz
+    version: v0.1.0
+  discoveryk8sio-endpointslice-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.555754186Z"
+    description: EndpointSlice Editor
+    digest: 914340649f82b5bcb6825f750c7f1baf4f538081aef9d0317822428e1e511718
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: discoveryk8sio-endpointslice-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/discoveryk8sio-endpointslice-editor/discoveryk8sio-endpointslice-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-awsaccesskeyrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.556275589Z"
+    description: AWSAccessKeyRequest Editor
+    digest: 34304bfe166ba02a29873ada243190d622485079c0790b3527a2c46dcfa0cc51
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-awsaccesskeyrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-awsaccesskeyrequest-editor/enginekubevaultcom-awsaccesskeyrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-awsrole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.556732191Z"
+    description: AWSRole Editor
+    digest: 6419be4dcba538a2babb6026dad546a4c3f0b1ff48cf1bf2917e5bf8c98246d7
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-awsrole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-awsrole-editor/enginekubevaultcom-awsrole-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-azureaccesskeyrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.557107294Z"
+    description: AzureAccessKeyRequest Editor
+    digest: 6a2aefa93e548a065efe80b11c3e1e5104bb119af776500b163c64d975ba183f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-azureaccesskeyrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-azureaccesskeyrequest-editor/enginekubevaultcom-azureaccesskeyrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-azurerole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.557597296Z"
+    description: AzureRole Editor
+    digest: 004ceab9e3657655631c2af19e215c04a325dba2642cfa2e6064015158f78e17
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-azurerole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-azurerole-editor/enginekubevaultcom-azurerole-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-databaseaccessrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.5581712Z"
+    description: DatabaseAccessRequest Editor
+    digest: 2560ea7ab35865d52dd0792e3e978d958a99fe98d51ae3415097d8c16f851414
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-databaseaccessrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-databaseaccessrequest-editor/enginekubevaultcom-databaseaccessrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-gcpaccesskeyrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.558738303Z"
+    description: GCPAccessKeyRequest Editor
+    digest: 8ce92c62faf0925c279c48b961bb6f4dfd6435a525cc24e7750f794869192850
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-gcpaccesskeyrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-gcpaccesskeyrequest-editor/enginekubevaultcom-gcpaccesskeyrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-gcprole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.559155005Z"
+    description: GCPRole Editor
+    digest: 5d0ae8822df936c3eb683de6a4aad5e12f82403e33199b35361c08f761ff61a6
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-gcprole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-gcprole-editor/enginekubevaultcom-gcprole-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-mongodbrole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.559517807Z"
+    description: MongoDBRole Editor
+    digest: 8979c8ab272a0998cf4d8b9be2cddd5f7ce7b215c2c127bce66bd14c0b36e792
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-mongodbrole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-mongodbrole-editor/enginekubevaultcom-mongodbrole-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-mysqlrole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.559900409Z"
+    description: MySQLRole Editor
+    digest: 91722b75d809458f89015e2f1ecb8f27f00c2e78474bd5271a201734766cd4ac
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-mysqlrole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-mysqlrole-editor/enginekubevaultcom-mysqlrole-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-postgresrole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.560333612Z"
+    description: PostgresRole Editor
+    digest: 6c047a91b7392d18201097961a6cbbacc36fa4d705759b1c1b29d851db7ed2e4
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-postgresrole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-postgresrole-editor/enginekubevaultcom-postgresrole-editor-v0.1.0.tgz
+    version: v0.1.0
+  enginekubevaultcom-secretengine-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.560796515Z"
+    description: SecretEngine Editor
+    digest: 333cd6dd527bea78866842fbe952065f416f88adb16b4962419dd6a7fda3c6ad
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: enginekubevaultcom-secretengine-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/enginekubevaultcom-secretengine-editor/enginekubevaultcom-secretengine-editor-v0.1.0.tgz
+    version: v0.1.0
+  eventsk8sio-event-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.561139216Z"
+    description: Event Editor
+    digest: 54139c48cd718448dc492c2f0efd7893cd5c3458a0cb545f74132dd09ccda55d
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: eventsk8sio-event-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/eventsk8sio-event-editor/eventsk8sio-event-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-daemonset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.563033827Z"
+    description: DaemonSet Editor
+    digest: 5e2d83bef703ff9813c07589bb6c2bec5f245a965dc4317c0100a20e63b8a329
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-daemonset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-daemonset-editor/extensions-daemonset-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-deployment-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.565078839Z"
+    description: Deployment Editor
+    digest: b42daf548a6b92639da1cd9541ee3a24a913d54740c09a49fd513f2017e09013
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-deployment-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-deployment-editor/extensions-deployment-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-ingress-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.565471841Z"
+    description: Ingress Editor
+    digest: 4a881e19ba66ae372a989dc3fef65e5d63d7181f4c0a97fc93958d295864a780
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-ingress-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-ingress-editor/extensions-ingress-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-networkpolicy-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.565886043Z"
+    description: NetworkPolicy Editor
+    digest: b1c98a9ab6db727b1dbef7990ea97313c4e81314b051d4df5f6eac79c6d24cb7
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-networkpolicy-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-networkpolicy-editor/extensions-networkpolicy-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-podsecuritypolicy-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.566345146Z"
+    description: PodSecurityPolicy Editor
+    digest: 668e5c84a55a8eb2c954e5bb940f0aa53897dae7eff4f6313a54b0d4e3d050af
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-podsecuritypolicy-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-podsecuritypolicy-editor/extensions-podsecuritypolicy-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-replicaset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.569218962Z"
+    description: ReplicaSet Editor
+    digest: 44d27ee49cb09d6b30f8e8b39640268096949eee206b66869eeef2234cf243ec
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-replicaset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-replicaset-editor/extensions-replicaset-editor-v0.1.0.tgz
+    version: v0.1.0
+  extensions-scale-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.569572964Z"
+    description: Scale Editor
+    digest: cf03971638b282392f05bd49dcbc63234fb54ca022a96ef7dee712c2cb3b7d64
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: extensions-scale-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/extensions-scale-editor/extensions-scale-editor-v0.1.0.tgz
+    version: v0.1.0
+  flowcontrolapiserverk8sio-flowschema-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.569977367Z"
+    description: FlowSchema Editor
+    digest: 8c71218db67adfb72b4a63ba48e8bc5b74e0221148c06549a67720178962141f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: flowcontrolapiserverk8sio-flowschema-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/flowcontrolapiserverk8sio-flowschema-editor/flowcontrolapiserverk8sio-flowschema-editor-v0.1.0.tgz
+    version: v0.1.0
+  flowcontrolapiserverk8sio-prioritylevelconfiguration-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.570331869Z"
+    description: PriorityLevelConfiguration Editor
+    digest: 00af9b24a270ca4c60635f3631228b8e97f013b227d39585a3d2d86e41757a5e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: flowcontrolapiserverk8sio-prioritylevelconfiguration-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/flowcontrolapiserverk8sio-prioritylevelconfiguration-editor/flowcontrolapiserverk8sio-prioritylevelconfiguration-editor-v0.1.0.tgz
+    version: v0.1.0
+  grafanasearchlightdev-dashboard-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.570733371Z"
+    description: Dashboard Editor
+    digest: 64e5fe0e2ad5b488d50e209bb6f8619bae81fb6a107f7d19279c68cea1b9e97c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: grafanasearchlightdev-dashboard-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/grafanasearchlightdev-dashboard-editor/grafanasearchlightdev-dashboard-editor-v0.1.0.tgz
+    version: v0.1.0
+  grafanasearchlightdev-dashboardtemplate-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.571102573Z"
+    description: DashboardTemplate Editor
+    digest: e4f9caf353a3cd76c2509a609970e216fcf3d42ceb382d2645d6119199cecd1d
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: grafanasearchlightdev-dashboardtemplate-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/grafanasearchlightdev-dashboardtemplate-editor/grafanasearchlightdev-dashboardtemplate-editor-v0.1.0.tgz
+    version: v0.1.0
+  grafanasearchlightdev-datasource-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.571422575Z"
+    description: Datasource Editor
+    digest: 812d0693f88f8dcddc856e618866202a75470690e5c5298025221d09362f904e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: grafanasearchlightdev-datasource-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/grafanasearchlightdev-datasource-editor/grafanasearchlightdev-datasource-editor-v0.1.0.tgz
+    version: v0.1.0
+  imagepolicyk8sio-imagereview-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.571728676Z"
+    description: ImageReview Editor
+    digest: 8c8873b391b9e47dc977185bff3cd0308b498ed54245b96c24fa001d223993fa
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: imagepolicyk8sio-imagereview-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/imagepolicyk8sio-imagereview-editor/imagepolicyk8sio-imagereview-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-elasticsearch-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.572799983Z"
+    description: Elasticsearch Editor
+    digest: 748c849572d46ead34cd180ab02e00ea9562fa988de4d276843e4d9b5de7a498
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-elasticsearch-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-elasticsearch-editor/kubedbcom-elasticsearch-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-etcd-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.573829688Z"
+    description: Etcd Editor
+    digest: 7eae7f0ecf4a2c8ac628da07b623d8f6a2f8221d7ffb88e7a5e90b8e3d845522
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-etcd-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-etcd-editor/kubedbcom-etcd-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-mariadb-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.574879294Z"
+    description: MariaDB Editor
+    digest: 857e99b5d7fdde9a225d7c9303349f367e38a41f846654834e6cf2b8847e8b26
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-mariadb-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-mariadb-editor/kubedbcom-mariadb-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-memcached-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.575669099Z"
+    description: Memcached Editor
+    digest: 7adc2510280cd099d0f33caca345c22e666aea5955b65dfaf4ecbb0259d69e90
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-memcached-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-memcached-editor/kubedbcom-memcached-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-mongodb-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.58289894Z"
+    description: Ui Wizard Chart
+    digest: 87177ba97142df9c61c2a94eba91109bc4ca4c7aeeedb6214b9db7a6ac3ffd6a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-mongodb-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-mongodb-editor/kubedbcom-mongodb-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-mongodb-editor-options:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.584865751Z"
+    description: MongoDB Editor UI Options
+    digest: 450fc86b1afad51ff2fcab3cda858f394eebde928e95b946623af73424db5907
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-mongodb-editor-options
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-mongodb-editor-options/kubedbcom-mongodb-editor-options-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-mysql-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.586141958Z"
+    description: MySQL Editor
+    digest: 45c946290c056aed82987950a3c8fce6ce6868e87b49cc9bc368db3ba1a447ab
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-mysql-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-mysql-editor/kubedbcom-mysql-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-perconaxtradb-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.587471966Z"
+    description: PerconaXtraDB Editor
+    digest: daba6f15eaeac2c28336591f58a162bf37dce4d521219537912c03abca3e45a8
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-perconaxtradb-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-perconaxtradb-editor/kubedbcom-perconaxtradb-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-pgbouncer-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.58825887Z"
+    description: PgBouncer Editor
+    digest: 81c831682806585f1eff2a5985405b953c2be638b0cb266559fb6544067483e2
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-pgbouncer-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-pgbouncer-editor/kubedbcom-pgbouncer-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-postgres-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.589359776Z"
+    description: Postgres Editor
+    digest: ae3a887cab1d706b5be76e8812acadc665ea2a29bd8c89879ff433e7661cf96f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-postgres-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-postgres-editor/kubedbcom-postgres-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-proxysql-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.59000848Z"
+    description: ProxySQL Editor
+    digest: ca844f3694544cd8030fde154575fba6756b44701d734069d0641f5ea55ef0bb
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-proxysql-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-proxysql-editor/kubedbcom-proxysql-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubedbcom-redis-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.590896585Z"
+    description: Redis Editor
+    digest: a1125be4eb1d10401e2354b099305b8ef4f967935d2f152a539f9bc9332f656c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedbcom-redis-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubedbcom-redis-editor/kubedbcom-redis-editor-v0.1.0.tgz
+    version: v0.1.0
+  kubevaultcom-vaultserver-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.595553412Z"
+    description: VaultServer Editor
+    digest: d023f05827d63463ccc8391614a123cec27aa1ffd0896d51eae4cf99bacb1918
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubevaultcom-vaultserver-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/kubevaultcom-vaultserver-editor/kubevaultcom-vaultserver-editor-v0.1.0.tgz
+    version: v0.1.0
+  metaappscodecom-resourcedescriptor-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.595890013Z"
+    description: ResourceDescriptor Editor
+    digest: 56a1eb4221368b41c90db3d704db30729fe87a1b443a8218a0d335e782229bb1
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: metaappscodecom-resourcedescriptor-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/metaappscodecom-resourcedescriptor-editor/metaappscodecom-resourcedescriptor-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-alertmanager-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.597474322Z"
+    description: Alertmanager Editor
+    digest: 6a9dbeade83c9786f9c302c719de76b35dc3e0b2dcddb844f796e4e2c7053513
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-alertmanager-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-alertmanager-editor/monitoringcoreoscom-alertmanager-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-alertmanagerconfig-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.597941825Z"
+    description: AlertmanagerConfig Editor
+    digest: b8954c2a41f1e3bd5be5ab884793c67b735d2ce4ec8f849ae8f917b0dfb00cee
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-alertmanagerconfig-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-alertmanagerconfig-editor/monitoringcoreoscom-alertmanagerconfig-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-podmonitor-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.598317727Z"
+    description: PodMonitor Editor
+    digest: 1ef58332c46118ed68c012a09ce2a66ff97a4201be1a8d15469e0f1b2d596d72
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-podmonitor-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-podmonitor-editor/monitoringcoreoscom-podmonitor-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-probe-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.598691129Z"
+    description: Probe Editor
+    digest: fcddeb95a2a543c9f10f5a8bc3732365c704570472e2d696fa4bb45f91eb6406
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-probe-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-probe-editor/monitoringcoreoscom-probe-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-prometheus-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.600901242Z"
+    description: Prometheus Editor
+    digest: afaa2e34b6dacb9cbcae2881034aeb9ee9e617ded311ab01a65a7e2794ad7644
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-prometheus-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-prometheus-editor/monitoringcoreoscom-prometheus-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-prometheusrule-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.601440745Z"
+    description: PrometheusRule Editor
+    digest: 675de46813b7879788f46e6e16f158157e32287fe9ff6e25f662717c33976f07
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-prometheusrule-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-prometheusrule-editor/monitoringcoreoscom-prometheusrule-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-servicemonitor-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.601861847Z"
+    description: ServiceMonitor Editor
+    digest: 181c45dd45186fc8d2346b73c36191d0e45d54b216298d1f970c4aef5910d8e2
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-servicemonitor-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-servicemonitor-editor/monitoringcoreoscom-servicemonitor-editor-v0.1.0.tgz
+    version: v0.1.0
+  monitoringcoreoscom-thanosruler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.604957565Z"
+    description: ThanosRuler Editor
+    digest: d050cbf3ef6b5be3e5c8ec7e6a7272a57627b25690bc93e6e475dc08be320faf
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: monitoringcoreoscom-thanosruler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/monitoringcoreoscom-thanosruler-editor/monitoringcoreoscom-thanosruler-editor-v0.1.0.tgz
+    version: v0.1.0
+  networkingk8sio-ingress-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.605635969Z"
+    description: Ingress Editor
+    digest: 475d4f315ff8e77d37fdd6030fb702bd1706c7e62ff26619442d0cd544a4fb7c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: networkingk8sio-ingress-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/networkingk8sio-ingress-editor/networkingk8sio-ingress-editor-v0.1.0.tgz
+    version: v0.1.0
+  networkingk8sio-ingressclass-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.606171172Z"
+    description: IngressClass Editor
+    digest: 7f467ca8767cdfccf6f8a1597e7fec2a03cff1c6ccfcc143700575de652df609
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: networkingk8sio-ingressclass-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/networkingk8sio-ingressclass-editor/networkingk8sio-ingressclass-editor-v0.1.0.tgz
+    version: v0.1.0
+  networkingk8sio-networkpolicy-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.606710575Z"
+    description: NetworkPolicy Editor
+    digest: 8065fe386ea311aed32a767012f875cd73d23f4341a48bb91cb548ef8ddfa1cd
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: networkingk8sio-networkpolicy-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/networkingk8sio-networkpolicy-editor/networkingk8sio-networkpolicy-editor-v0.1.0.tgz
+    version: v0.1.0
+  nodek8sio-runtimeclass-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.60759638Z"
+    description: RuntimeClass Editor
+    digest: c5dd472fed371f8d4d4f9e81da1302224ed8f50b1905cee2041f66ecd80d2bae
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: nodek8sio-runtimeclass-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/nodek8sio-runtimeclass-editor/nodek8sio-runtimeclass-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-elasticsearchopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.608128383Z"
+    description: ElasticsearchOpsRequest Editor
+    digest: 7d254745d9b34f8b2667a8985cfe6abee3dc5958e00d27b4ad787e52123d4a63
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-elasticsearchopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-elasticsearchopsrequest-editor/opskubedbcom-elasticsearchopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-etcdopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.608536885Z"
+    description: EtcdOpsRequest Editor
+    digest: 2a130a4fa0eb7c905677a63143d478304448c17a40a635d89e3c5a8a28416454
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-etcdopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-etcdopsrequest-editor/opskubedbcom-etcdopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-mariadbopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.608902487Z"
+    description: MariaDBOpsRequest Editor
+    digest: e75a21d834a928655a42de8f87d9b634299f044da2e199597f921d4243efdcc4
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-mariadbopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-mariadbopsrequest-editor/opskubedbcom-mariadbopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-memcachedopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.609269189Z"
+    description: MemcachedOpsRequest Editor
+    digest: 87a880860703e1d8b35da16678b5709f46f9a5e7f892f32603f43722da40ea17
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-memcachedopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-memcachedopsrequest-editor/opskubedbcom-memcachedopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-mongodbopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.609913293Z"
+    description: MongoDB ops request Editor UI
+    digest: 219c4a1feceb3eb7bd0224dfc6aa179248ebccc7dba8b14b3f9cc628c5b7d54a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-mongodbopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-mongodbopsrequest-editor/opskubedbcom-mongodbopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-mysqlopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.610566697Z"
+    description: MySQLOpsRequest Editor
+    digest: 59774daab9d1b48a165f9cef8df1a7f0db6e712fdf4615b9a1f5afb052d98640
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-mysqlopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-mysqlopsrequest-editor/opskubedbcom-mysqlopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-perconaxtradbopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.611023199Z"
+    description: PerconaXtraDBOpsRequest Editor
+    digest: f15cdfc7c4c80f5af82052b3270167ef88adc2c1d8c3d0c987c3f934a20ca20e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-perconaxtradbopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-perconaxtradbopsrequest-editor/opskubedbcom-perconaxtradbopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-pgbounceropsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.611465102Z"
+    description: PgBouncerOpsRequest Editor
+    digest: c7b620476efbe502b489b46fd1c908564cfd4003682b50ea2450e4f6887f5a7b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-pgbounceropsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-pgbounceropsrequest-editor/opskubedbcom-pgbounceropsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-postgresopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.611960805Z"
+    description: PostgresOpsRequest Editor
+    digest: eb8c75b2e687161f8247dbce8f17bbb9c48138b1d6f1442ee007d664a21447d8
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-postgresopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-postgresopsrequest-editor/opskubedbcom-postgresopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-proxysqlopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.612456607Z"
+    description: ProxySQLOpsRequest Editor
+    digest: ed0162a9c5157d87ceff6af59279525207e35714bc90a9c384f64d189d7c6ce8
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-proxysqlopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-proxysqlopsrequest-editor/opskubedbcom-proxysqlopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  opskubedbcom-redisopsrequest-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.613105511Z"
+    description: RedisOpsRequest Editor
+    digest: 6a7eb7708ba03e2ff391e0cb8f27e7bb277d377a94325cebbf8434f71a373e37
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: opskubedbcom-redisopsrequest-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/opskubedbcom-redisopsrequest-editor/opskubedbcom-redisopsrequest-editor-v0.1.0.tgz
+    version: v0.1.0
+  policy-eviction-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.613468813Z"
+    description: Eviction Editor
+    digest: 430f322652b6a5e22f55fcae23dbed34d37295503e7bc9d3c1b0d35ef54ecb51
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: policy-eviction-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/policy-eviction-editor/policy-eviction-editor-v0.1.0.tgz
+    version: v0.1.0
+  policy-poddisruptionbudget-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.613892616Z"
+    description: PodDisruptionBudget Editor
+    digest: d81c5a1c92f13094494f59b4a42128f77e6c88ef0b2a8aa5780ae276e5a18701
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: policy-poddisruptionbudget-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/policy-poddisruptionbudget-editor/policy-poddisruptionbudget-editor-v0.1.0.tgz
+    version: v0.1.0
+  policy-podsecuritypolicy-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.614355018Z"
+    description: PodSecurityPolicy Editor
+    digest: 65abe52d35993f65a4bb781fe706afdcf8ae95cae0dc73969784ebe5de2faa9b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: policy-podsecuritypolicy-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/policy-podsecuritypolicy-editor/policy-podsecuritypolicy-editor-v0.1.0.tgz
+    version: v0.1.0
+  policykubevaultcom-vaultpolicy-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.61474062Z"
+    description: VaultPolicy Editor
+    digest: 006f212632909a32e0b52cf90b22d8431ad3403c1dc244925a2ce24d7d8bad1d
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: policykubevaultcom-vaultpolicy-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/policykubevaultcom-vaultpolicy-editor/policykubevaultcom-vaultpolicy-editor-v0.1.0.tgz
+    version: v0.1.0
+  policykubevaultcom-vaultpolicybinding-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.615126322Z"
+    description: VaultPolicyBinding Editor
+    digest: 831023de520fa15477d514c071aaf56d141ac14831029ea5f25c5b13f9e13d48
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: policykubevaultcom-vaultpolicybinding-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/policykubevaultcom-vaultpolicybinding-editor/policykubevaultcom-vaultpolicybinding-editor-v0.1.0.tgz
+    version: v0.1.0
+  rbacauthorizationk8sio-clusterrole-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.615511625Z"
+    description: ClusterRole Editor
+    digest: 09c1cb9d6fabb8da69590e8bd514a9df5724ddeb4c342e20bb0cd419c2bab873
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: rbacauthorizationk8sio-clusterrole-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/rbacauthorizationk8sio-clusterrole-editor/rbacauthorizationk8sio-clusterrole-editor-v0.1.0.tgz
+    version: v0.1.0
+  rbacauthorizationk8sio-clusterrolebinding-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.615832327Z"
+    description: ClusterRoleBinding Editor
+    digest: 2fa1af024e33dff140e9e4632fe4d17ffa8c202fe614c3d5d57c9d4ad89971e5
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: rbacauthorizationk8sio-clusterrolebinding-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/rbacauthorizationk8sio-clusterrolebinding-editor/rbacauthorizationk8sio-clusterrolebinding-editor-v0.1.0.tgz
+    version: v0.1.0
+  rbacauthorizationk8sio-role-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.616163128Z"
+    description: Role Editor
+    digest: e65d36c39b1a6cfccca2491016c051f513e62edc807fa81a0816ec056e7b699a
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: rbacauthorizationk8sio-role-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/rbacauthorizationk8sio-role-editor/rbacauthorizationk8sio-role-editor-v0.1.0.tgz
+    version: v0.1.0
+  rbacauthorizationk8sio-rolebinding-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.61648773Z"
+    description: RoleBinding Editor
+    digest: 21525f5649798f7844a24c1b3178b7442c89646522ec4ca042b44cab4335d494
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: rbacauthorizationk8sio-rolebinding-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/rbacauthorizationk8sio-rolebinding-editor/rbacauthorizationk8sio-rolebinding-editor-v0.1.0.tgz
+    version: v0.1.0
+  schedulingk8sio-priorityclass-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.616796532Z"
+    description: PriorityClass Editor
+    digest: 17e624412b2cd7e13de245fd61e234d6e4ee03a250068328c6d65605e719f069
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: schedulingk8sio-priorityclass-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/schedulingk8sio-priorityclass-editor/schedulingk8sio-priorityclass-editor-v0.1.0.tgz
+    version: v0.1.0
+  settingsk8sio-podpreset-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.617809038Z"
+    description: PodPreset Editor
+    digest: a5c4b4592867a86a6301af2bca7d6f9a09533925e4f6c15fa5913905e0242be0
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: settingsk8sio-podpreset-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/settingsk8sio-podpreset-editor/settingsk8sio-podpreset-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-backupbatch-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.620529953Z"
+    description: BackupBatch Editor
+    digest: a5b540b489cc694df9d102f9ddabdb0da33dc5b0b616ab60a425075149623341
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-backupbatch-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-backupbatch-editor/stashappscodecom-backupbatch-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-backupblueprint-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.622896567Z"
+    description: BackupBlueprint Editor
+    digest: 8ea4586a382b0a42368426290bbdea818c8f316c83d55b121ef050f2717b4288
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-backupblueprint-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-backupblueprint-editor/stashappscodecom-backupblueprint-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-backupconfiguration-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.623277069Z"
+    description: A Helm chart for Kubernetes
+    digest: b14d860c09d055b2f5ae98b5244fc2da35bf16a35edf91f98593237c32c090f2
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-backupconfiguration-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-backupconfiguration-editor/stashappscodecom-backupconfiguration-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-backupsession-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.623798472Z"
+    description: BackupSession Editor
+    digest: f5435bf76b91e2065134fb81e16e47ee8b5b3d9ec790c69219718ebce683453d
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-backupsession-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-backupsession-editor/stashappscodecom-backupsession-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-function-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.624612276Z"
+    description: Function Editor
+    digest: e1e27b6039d911f50eaeaddd218a9fa24da960b10fe90fae79cf6798a3f14234
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-function-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-function-editor/stashappscodecom-function-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-repository-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.625734483Z"
+    description: Repository Editor
+    digest: 3943c30c37eb2ceb3b9e123cfaa570777cb8d6b69db2d32ae17add9751abefbe
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-repository-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-repository-editor/stashappscodecom-repository-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-restorebatch-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.628050096Z"
+    description: RestoreBatch Editor
+    digest: bfcde04f84bd23779f65ef08324de8f5a1364e377dbc27e18068ee4e6a1e79e3
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-restorebatch-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-restorebatch-editor/stashappscodecom-restorebatch-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-restoresession-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.63051591Z"
+    description: RestoreSession Editor
+    digest: 653ec828b9b87d8a155ce78a5d834d52b29baefd971cdbae50d7066ecd11a77f
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-restoresession-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-restoresession-editor/stashappscodecom-restoresession-editor-v0.1.0.tgz
+    version: v0.1.0
+  stashappscodecom-task-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.631633116Z"
+    description: Task Editor
+    digest: c8d52afe16dd7db89efca81c713499d3158c8c1bbd922a13ac2aa9c4648c2a1e
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-task-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-task-editor/stashappscodecom-task-editor-v0.1.0.tgz
+    version: v0.1.0
+  storagek8sio-csidriver-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.632470221Z"
+    description: CSIDriver Editor
+    digest: d2b8eafc7d75db818b07ecf98a409839c411221a5814c32d6e724da2c74904c0
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: storagek8sio-csidriver-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/storagek8sio-csidriver-editor/storagek8sio-csidriver-editor-v0.1.0.tgz
+    version: v0.1.0
+  storagek8sio-csinode-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.632935623Z"
+    description: CSINode Editor
+    digest: 58789b36f1a42ed69e30aebcb6c0c0be8da6ed0f9c963e8478fce44418e2ce2b
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: storagek8sio-csinode-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/storagek8sio-csinode-editor/storagek8sio-csinode-editor-v0.1.0.tgz
+    version: v0.1.0
+  storagek8sio-storageclass-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.633380126Z"
+    description: StorageClass Editor
+    digest: 1c9c99604f13bd7371243ae30184b64b770b73c528877a396d9a4e93a3af9617
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: storagek8sio-storageclass-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/storagek8sio-storageclass-editor/storagek8sio-storageclass-editor-v0.1.0.tgz
+    version: v0.1.0
+  storagek8sio-volumeattachment-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.63408333Z"
+    description: VolumeAttachment Editor
+    digest: 7a697db0ed03373046e9fe4306d75894c833e179eafe5b8e0b6c022472facc86
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: storagek8sio-volumeattachment-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/storagek8sio-volumeattachment-editor/storagek8sio-volumeattachment-editor-v0.1.0.tgz
+    version: v0.1.0
+  voyagerappscodecom-certificate-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.634491532Z"
+    description: Certificate Editor
+    digest: fd5d65ab44cfccd53cd85357b35f4f2dc198899b0caae03e5b6975283e7839fc
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: voyagerappscodecom-certificate-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/voyagerappscodecom-certificate-editor/voyagerappscodecom-certificate-editor-v0.1.0.tgz
+    version: v0.1.0
+  voyagerappscodecom-ingress-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-02-19T23:28:18.63588204Z"
+    description: Ingress Editor
+    digest: c8f9430bec089a2a275e5e751caeb7b391091a5353db3caeb0c01779b5a2c051
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: voyagerappscodecom-ingress-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/voyagerappscodecom-ingress-editor/voyagerappscodecom-ingress-editor-v0.1.0.tgz
+    version: v0.1.0
+generated: "2021-02-19T23:28:18.502766586Z"
