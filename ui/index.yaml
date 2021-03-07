@@ -3,9 +3,9 @@ entries:
   acmecertmanagerio-challenge-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.237687249Z"
+    created: "2021-03-07T08:27:22.894532976Z"
     description: Challenge Editor
-    digest: cbdb51448f5a2ce3af41a70464400f8687b1887be317e62a109e73c7a3e2c6fc
+    digest: 391be4fb8abab1dc19fbedf26a72b3d8af0db4702625d7913235f97cd76534de
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -22,9 +22,9 @@ entries:
   acmecertmanagerio-order-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.238144158Z"
+    created: "2021-03-07T08:27:22.894850779Z"
     description: Order Editor
-    digest: 12ed1f0ff0cbd555b21c278d94d76329a68a3acc14f8b5bdfd186fbd58e4c30e
+    digest: f5e08b07fcc2e1cd995f37e3a40d1e15e62a90dd9b03f7ccd19ab8f09129e654
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -41,9 +41,9 @@ entries:
   admissionregistrationk8sio-mutatingwebhookconfiguration-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.238733068Z"
+    created: "2021-03-07T08:27:22.895385384Z"
     description: MutatingWebhookConfiguration Editor
-    digest: c7fe7b9b51379fdb3ca3d69f8af0fa547aee64efc5d65bb93d633c33985a0744
+    digest: 95b1e075b57686fb53659380701078d322f6a4dc5b2b0a12bac1986815c3798e
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -60,9 +60,9 @@ entries:
   admissionregistrationk8sio-validatingwebhookconfiguration-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.2404401Z"
+    created: "2021-03-07T08:27:22.895852288Z"
     description: ValidatingWebhookConfiguration Editor
-    digest: 1e531fa658d1281cb78ec373a8789df0c449eed47a032dfee3d4b2248b01d2cd
+    digest: e43f700e440b50d691caca2f03d504d7b893b6f0867076934674d589497c1a71
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -79,9 +79,9 @@ entries:
   apiextensionsk8sio-customresourcedefinition-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.240899308Z"
+    created: "2021-03-07T08:27:22.896142991Z"
     description: CustomResourceDefinition Editor
-    digest: a493aabfd5d7c0ce8b5a279c7fae546bb20f1885205e7f71134b59b48f80b838
+    digest: 2f7e14aa05fd43541ddf9291d7455901fb944132973dbf33ff6b9df36ba89bc8
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -98,9 +98,9 @@ entries:
   apiregistrationk8sio-apiservice-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.241711923Z"
+    created: "2021-03-07T08:27:22.897645805Z"
     description: APIService Editor
-    digest: 7e4a67ecd7368278f6545e5ad0e6fca5307b72d6fdf783f0c3f7a7c02aca9462
+    digest: 7820a1d6dadbe60ef496e7cd1f9485b9d91c9905205614fa729e1553b5f3a13a
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -117,9 +117,9 @@ entries:
   appcatalogappscodecom-appbinding-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.242315534Z"
+    created: "2021-03-07T08:27:22.89823801Z"
     description: AppBinding Editor
-    digest: 7bcf713175c80a2bb9fa0534eaea2e0a41212c7e2d1fd6678946d6a5afd8648e
+    digest: 77df0643ded3bc975ef8d5e231e928c18c6b597be7a6e32c125e513842d35ea5
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -136,9 +136,9 @@ entries:
   appk8sio-application-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.242885044Z"
+    created: "2021-03-07T08:27:22.898837716Z"
     description: Application Editor
-    digest: d3517a809d43c7b46ba7046bdae024124e32ae2e1ff99a4f293a3436a295b74a
+    digest: e05bb2dc0c7889edb36d51c6e870a5eb73ce6b140b9f5ce6c27b69f0e79de0df
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -155,9 +155,9 @@ entries:
   apps-controllerrevision-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.243532056Z"
+    created: "2021-03-07T08:27:22.89927082Z"
     description: ControllerRevision Editor
-    digest: 1c3f9678194feafb1c6038423644b1526cb6987a94c253f701bfba533989f7be
+    digest: 5234016fffbcc94d066eb4daadf3bff310b59b11076117da061b2fcebab02bf2
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -174,9 +174,9 @@ entries:
   apps-daemonset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.245125085Z"
+    created: "2021-03-07T08:27:22.901168038Z"
     description: DaemonSet Editor
-    digest: f4a5296fa7b32655bac8adf19996ec4740d75abae08ff59d7ab2f8faf37dd127
+    digest: 925f89c917b90fc04145aee2dd69e16381a5789b0251d149dc5404b959f978e7
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -193,9 +193,9 @@ entries:
   apps-deployment-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.247002819Z"
+    created: "2021-03-07T08:27:22.902953354Z"
     description: Deployment Editor
-    digest: 45a4a6359cce9a531adeec0f4b2ad0233f79d018add159ef336eb2668c4d511f
+    digest: 91d8e7e40deddfa28fd222b177adec5ae4d15513ebae1502794eb9a40f2247ce
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -212,9 +212,9 @@ entries:
   apps-replicaset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.249326962Z"
+    created: "2021-03-07T08:27:22.904177666Z"
     description: ReplicaSet Editor
-    digest: 1f2b3065af733823a87381b866c6e555e6de8132ebe4a3965f9407e96a9d1d1e
+    digest: d0d7b95485e961133299fa7244fb9b4e2b6b5aa543c6e97c9d6feeb56479ce8e
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -231,9 +231,9 @@ entries:
   apps-statefulset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.251378199Z"
+    created: "2021-03-07T08:27:22.906344086Z"
     description: StatefulSet Editor
-    digest: fe4c674fc950486386589cfba5032bb96f8cdc6134379fde3c0c323239639dd5
+    digest: d83c7217d234c20fda33f304daea82c79fb276eec813fb83dd6debbfac204221
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -250,9 +250,9 @@ entries:
   auditregistrationk8sio-auditsink-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.251892308Z"
+    created: "2021-03-07T08:27:22.907474296Z"
     description: AuditSink Editor
-    digest: 53572219785f80a6774c2a5e34f969a0546e536cdb87f5ca51c86f06048d4f80
+    digest: b4fadccde8a494c4a1a83fc70e88cd7e4f773415096a5a7c33f0c88e5e2a277b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -269,9 +269,9 @@ entries:
   authenticationk8sio-tokenrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.252345417Z"
+    created: "2021-03-07T08:27:22.907762299Z"
     description: TokenRequest Editor
-    digest: c6c1c806e39c56bb94afbf360c04e8edd50de049b54ea4a4ae56e2c0401a6c3e
+    digest: 4936e1a2cc9885cf729ec618076289936fd562e2866d2be56a4f796948c99856
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -288,9 +288,9 @@ entries:
   authenticationk8sio-tokenreview-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.252799025Z"
+    created: "2021-03-07T08:27:22.908105602Z"
     description: TokenReview Editor
-    digest: b7edc111f9ee8eb7ce8bddb4a6320982e41e93c5c60f832021efb4258bed3992
+    digest: 137e13def7830816b746714780986ba869189ec1482744b0774bbd3f0c30e00b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -307,9 +307,9 @@ entries:
   authorizationk8sio-localsubjectaccessreview-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.253341335Z"
+    created: "2021-03-07T08:27:22.908502206Z"
     description: LocalSubjectAccessReview Editor
-    digest: 3c38dcf2930e1e07b645af0e759161b566a21a3c9cdd0f42508bc8d6e6a609b6
+    digest: baee5754d89caa0b4d9a206d3a94637945ad59ef15f7cffbaa3cb6d6a0eb2251
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -326,9 +326,9 @@ entries:
   authorizationk8sio-selfsubjectaccessreview-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.254113449Z"
+    created: "2021-03-07T08:27:22.908869509Z"
     description: SelfSubjectAccessReview Editor
-    digest: 5804a38e9032949a2e98e75dce7a9e96bf6bc93954ce5b22870ed7b844a50886
+    digest: ec7ddf096f529cfeccd1d100bd25083d359708b3e477e27e2b98c1f6763cdc73
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -345,9 +345,9 @@ entries:
   authorizationk8sio-selfsubjectrulesreview-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.254554257Z"
+    created: "2021-03-07T08:27:22.909192712Z"
     description: SelfSubjectRulesReview Editor
-    digest: 8fdc755fdaf0930e9e09a21b6bfc937ea6e9ffb1780ff7a0421cb0da5b180607
+    digest: 83a90919f86c746a61de0e2e456275db63cb58cab632638a97f26bd9108f7768
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -364,9 +364,9 @@ entries:
   authorizationk8sio-subjectaccessreview-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.255005865Z"
+    created: "2021-03-07T08:27:22.909435215Z"
     description: SubjectAccessReview Editor
-    digest: 3014d89cc83d93c816ff870f5f56b8efee8b9d390111922f495b30665cbebb14
+    digest: 35f80f34e4d1d43c21ec148fd5e4ad5f44fdb2b0aa9f8cfa466004707bec5a2d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -383,9 +383,9 @@ entries:
   autoscaling-horizontalpodautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.255643377Z"
+    created: "2021-03-07T08:27:22.909747018Z"
     description: HorizontalPodAutoscaler Editor
-    digest: c32193771a5aedeca7eca7bf2ade71bf51964e9fb9e39d2471a4f2b6694776bc
+    digest: e64687d98e84dce0014768f4045104ff73e8ea3939e6092114964eeee3d780c8
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -399,12 +399,50 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/autoscaling-horizontalpodautoscaler-editor/autoscaling-horizontalpodautoscaler-editor-v0.1.0.tgz
     version: v0.1.0
+  autoscalingk8sio-verticalpodautoscaler-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.909948019Z"
+    description: VerticalPodAutoscaler Editor
+    digest: c0606be91c1bd9c0d143ee1543d2789a54bb0058936e20a84f582a851826dcd7
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingk8sio-verticalpodautoscaler-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingk8sio-verticalpodautoscaler-editor/autoscalingk8sio-verticalpodautoscaler-editor-v0.1.0.tgz
+    version: v0.1.0
+  autoscalingk8sio-verticalpodautoscalercheckpoint-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.910151821Z"
+    description: VerticalPodAutoscalerCheckpoint Editor
+    digest: f4ecc192b575c578d8223de44fa45cc39a70189aad396cb9edaedf960c1b2439
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: autoscalingk8sio-verticalpodautoscalercheckpoint-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/autoscalingk8sio-verticalpodautoscalercheckpoint-editor/autoscalingk8sio-verticalpodautoscalercheckpoint-editor-v0.1.0.tgz
+    version: v0.1.0
   autoscalingkubedbcom-elasticsearchautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.256250688Z"
+    created: "2021-03-07T08:27:22.910412824Z"
     description: ElasticsearchAutoscaler Editor
-    digest: c5fc863383039481904b319b37beb762a4b008edb8724f1ecdeb21c9b60ac1ca
+    digest: 65f97fc2d38a725f3f44f794e8bdda403fd837b9581d77eeffd5148d6dc04f88
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -421,9 +459,9 @@ entries:
   autoscalingkubedbcom-etcdautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.256770397Z"
+    created: "2021-03-07T08:27:22.910989529Z"
     description: EtcdAutoscaler Editor
-    digest: 98e93073960911be8a5d77f9c35c755e25cebf2fdad49fe96f92c705031884b5
+    digest: 3aec38b57d592593f9443f3ba2dc67b99f854160647a25c6a02f3814841cdfde
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -440,9 +478,9 @@ entries:
   autoscalingkubedbcom-mariadbautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.25748001Z"
+    created: "2021-03-07T08:27:22.911389533Z"
     description: MariaDBAutoscaler Editor
-    digest: 40ef0c12ab3b33b3c70d6e4db3411f2e1a56f25c61a80d75f17d300fd2beb2cd
+    digest: f7dbfaa2e825a40ce742577c7710e6df2faf4e9da224a144aa785aaf58693e34
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -459,9 +497,9 @@ entries:
   autoscalingkubedbcom-memcachedautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.258119022Z"
+    created: "2021-03-07T08:27:22.911776136Z"
     description: MemcachedAutoscaler Editor
-    digest: 03ebdc22891116a153447c0328a2fb71b30e5b88d5ab16752f61fc5a8cc37d13
+    digest: 51337c82fdd49dbaa2efb5fed1abd4bb2d37612b3672d0fe2b43fb3c23add4f0
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -478,9 +516,9 @@ entries:
   autoscalingkubedbcom-mongodbautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.258474628Z"
+    created: "2021-03-07T08:27:22.912087539Z"
     description: MongoDBAutoscaler Editor
-    digest: 5e186baea6961d775aabf042c9c6641aa721208cb48dd8fcc9e76dcebb13d201
+    digest: 252c9ca7ef991ff25f0e975f01fac467e5e6ac9e71cb8df3f6de0b3cc8472423
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -497,9 +535,9 @@ entries:
   autoscalingkubedbcom-mysqlautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.258898436Z"
+    created: "2021-03-07T08:27:22.912373642Z"
     description: MySQLAutoscaler Editor
-    digest: 981d0525e4fec39d9fdebd4a36e9837aa201250c32c40a8646aa131615bd1cdc
+    digest: 776b7f3a709c9ce0b02a7798007655046b2d162622190b37c77450021263dc89
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -516,9 +554,9 @@ entries:
   autoscalingkubedbcom-perconaxtradbautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.259329744Z"
+    created: "2021-03-07T08:27:22.912653345Z"
     description: PerconaXtraDBAutoscaler Editor
-    digest: 34eddce4821e5a8697c6ff4a8c2185d4343af675677ab8f468d948991532dff2
+    digest: 96f9d4e6dba623b906fff9ea747ffa08a204c002d2fbe8ce2a8f4115d0bc0a2f
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -535,9 +573,9 @@ entries:
   autoscalingkubedbcom-pgbouncerautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.259749352Z"
+    created: "2021-03-07T08:27:22.912917747Z"
     description: PgBouncerAutoscaler Editor
-    digest: 8cc1fbc26f2db75b5ee717bb9a08fd0732a6ca7155e12c9b32636c70481bd73e
+    digest: c0470187b9f1823e2d749c2f66c27d6b2a5f270e5641ba7ec369c0f68f8e4584
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -554,9 +592,9 @@ entries:
   autoscalingkubedbcom-postgresautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.260177059Z"
+    created: "2021-03-07T08:27:22.91318785Z"
     description: PostgresAutoscaler Editor
-    digest: 996fda5158a430127449339ba785e5e774f2b2d3b41c6e64132ccec9cf83cb42
+    digest: 97949f1f0647df72d2e9e01738674b0f4d9667450ee632ab11b5e38648e8ea11
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -573,9 +611,9 @@ entries:
   autoscalingkubedbcom-proxysqlautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.260590367Z"
+    created: "2021-03-07T08:27:22.913452352Z"
     description: ProxySQLAutoscaler Editor
-    digest: 269d27e63b89f7aef7675eebb2f046c5e50be2389f938ca555f138144ba49c84
+    digest: 6576b62bf44aa60bfd208c22a5379ec4c2b8f4240d4d8f5349504781c115e2a1
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -592,9 +630,9 @@ entries:
   autoscalingkubedbcom-redisautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.261089876Z"
+    created: "2021-03-07T08:27:22.913717554Z"
     description: RedisAutoscaler Editor
-    digest: ac86958e3038c22c10fd29ec3ba292e7042b3e466b865efdb9ae561634046339
+    digest: e16533498c1f5e8facf801cd6a5bd5df56809c6c37806cbd82477f19eb22fbe2
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -611,9 +649,9 @@ entries:
   autoscalingkubedbcom-verticalautoscaler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.261553585Z"
+    created: "2021-03-07T08:27:22.913977157Z"
     description: VerticalAutoscaler Editor
-    digest: 28910ac7585336d3f2520fa8fc96f07541917e0580ab759a0892d16cf6e960cf
+    digest: b457ef5a595fbf02754532b6268f4de8d0e1fdc0c6887948024009d26754e81d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -630,9 +668,9 @@ entries:
   autoscalingkubedbcom-verticalautoscalercheckpoint-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.262026893Z"
+    created: "2021-03-07T08:27:22.91427076Z"
     description: VerticalAutoscalerCheckpoint Editor
-    digest: 9aa75cfec910d1caa6d4ad133d5f1d80d935cc581bdb49485f31b6f6a65ec438
+    digest: 4320adce37c6d472eed4407b88e693eb2c4721e1b42351ced96800ef365a8b26
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -649,9 +687,9 @@ entries:
   batch-cronjob-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.263882327Z"
+    created: "2021-03-07T08:27:22.916104077Z"
     description: CronJob Editor
-    digest: fcbe5be80ddfa4c0b104b9599bf510eca33bacef698fb88a9ba13b1075f5acfe
+    digest: 57c49f9e9ff376904da43b934c8835c2d0cc276de6e5d6bfea13375b425f6920
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -668,9 +706,9 @@ entries:
   batch-job-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.265755661Z"
+    created: "2021-03-07T08:27:22.917657291Z"
     description: Job Editor
-    digest: a6fa9be6aa1dc51e13b3aad0a787526b82eb43b97f28b3b3f76c48a8b3d7db43
+    digest: 86c5693001557dcbe7845efa7a435042653034f23596bb160be38d9e6b8a4ced
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -687,9 +725,9 @@ entries:
   catalogkubedbcom-elasticsearchversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.266123368Z"
+    created: "2021-03-07T08:27:22.917919694Z"
     description: ElasticsearchVersion Editor
-    digest: 5549fd11e253879a886b89b9f146368d8da744be47ee43e7fa76652a22b4b5b9
+    digest: c29e4fa55ee493c529b3700ade15d833f7cb32e6f30124c732332ae2337af12a
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -706,9 +744,9 @@ entries:
   catalogkubedbcom-etcdversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.266485475Z"
+    created: "2021-03-07T08:27:22.918159396Z"
     description: EtcdVersion Editor
-    digest: 467cc2eb73ebec64330179d6b21894efb85bbc4b582db5b85afcd10191a46652
+    digest: ce0af412d838afe8529e0cc98039d740bcc6f3d5703e8a5b1035b8a4d18d4f3e
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -725,9 +763,9 @@ entries:
   catalogkubedbcom-mariadbversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.267420592Z"
+    created: "2021-03-07T08:27:22.918400498Z"
     description: MariaDBVersion Editor
-    digest: 23b6be5d8ef5fde19c7b7b817cfd7419e50b9dfd6920c0b73900c1f400eb548e
+    digest: 9f959d5eb1e99a8a7e3a7439700079faa3231ecf331a640bc1aba7a699d44f63
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -744,9 +782,9 @@ entries:
   catalogkubedbcom-memcachedversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.267750498Z"
+    created: "2021-03-07T08:27:22.9186393Z"
     description: MemcachedVersion Editor
-    digest: 2f7df467afd05f1fe23e1c2eb35773134aa9c62f9f5ffdad80edd656b95a2182
+    digest: 14c14019133a0b180bcd7f5727ee68169f80200ef37b4a85312e7d2f6380c5bf
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -763,9 +801,9 @@ entries:
   catalogkubedbcom-mongodbversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.268063703Z"
+    created: "2021-03-07T08:27:22.918879002Z"
     description: MongoDBVersion Editor
-    digest: b5169dccca277cf3cb03bff14c1fdb07eab1995eec4dc143789bdbd28974f140
+    digest: b34646ab71c66dd574d1877c4f2770a57042ad98c03482a664d23e3e11c65ee3
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -782,9 +820,9 @@ entries:
   catalogkubedbcom-mysqlversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.26841651Z"
+    created: "2021-03-07T08:27:22.919122905Z"
     description: MySQLVersion Editor
-    digest: dacdab46a7c11ac45ba1228c73b15eca6cfd9a355a3ed332d767325876f7b202
+    digest: 630870bfccd9293571b689a69cbc4a1682539030ed24ef8e643f8c1fcf202a69
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -801,9 +839,9 @@ entries:
   catalogkubedbcom-perconaxtradbversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.269096322Z"
+    created: "2021-03-07T08:27:22.919357307Z"
     description: PerconaXtraDBVersion Editor
-    digest: 62cfc56d75c5d47c39737fad399501ca1f00e5bcf912d9a69e409361fc66c23f
+    digest: bf930ef7e12129c912b76f65850556621255003eb19a87ea5a9b49684483d371
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -820,9 +858,9 @@ entries:
   catalogkubedbcom-pgbouncerversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.26953323Z"
+    created: "2021-03-07T08:27:22.919592709Z"
     description: PgBouncerVersion Editor
-    digest: 119d95f70a38a8998a36a047f501f3cca478dbb588a4891c4f9589afdd1122b6
+    digest: 2c482bc1e8b6e1593635b0e17373a7d6f3c41640d036d2701ecc7c6a7d896cd0
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -839,9 +877,9 @@ entries:
   catalogkubedbcom-postgresversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.269950438Z"
+    created: "2021-03-07T08:27:22.919841811Z"
     description: PostgresVersion Editor
-    digest: 776fbf9ea49aa969c6ac840d4c67680d2fe2c067b461427578ba0ddcbf0265f0
+    digest: 40ffe3a4b274f3194afbc589406be40050430909b6672a1b640f6cc1aa22d216
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -858,9 +896,9 @@ entries:
   catalogkubedbcom-proxysqlversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.270424346Z"
+    created: "2021-03-07T08:27:22.920077714Z"
     description: ProxySQLVersion Editor
-    digest: 8c93dfc49c674123fd2ec8b0c5ab37185d51d951b5f078923f5b6037bd8d2cae
+    digest: 7341bc2d420b1c5318e7a960cc639c1ec4a0c20e7f3347a1d182bf7cf2c43660
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -877,9 +915,9 @@ entries:
   catalogkubedbcom-redisversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.270865754Z"
+    created: "2021-03-07T08:27:22.920411517Z"
     description: RedisVersion Editor
-    digest: 3f3cf5f722207fcb5ba311928ba7a9389a002c9c69430a0088ae7480eb16ddc9
+    digest: 71f8639856ebdefc5f01e31a41484313f4d2dad16ea1a65698d38fb716a0672d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -896,9 +934,9 @@ entries:
   catalogkubevaultcom-vaultserverversion-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.271622768Z"
+    created: "2021-03-07T08:27:22.92071202Z"
     description: VaultServerVersion Editor
-    digest: aae442d6c38b30ec3a6025c757d19986ac328a427b13e7c66074997d0eb57c3a
+    digest: 117eb8d14a000ee4d019b64abe780b2aae8233533442afcca5c4d582afa29faa
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -915,9 +953,9 @@ entries:
   certificatesk8sio-certificatesigningrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.272087977Z"
+    created: "2021-03-07T08:27:22.920963122Z"
     description: CertificateSigningRequest Editor
-    digest: 0e08aea60f01f7d44325686be8efa0a58576fa18bde126e3df652cccee4e3b27
+    digest: 23c05a562bb8845f849ee4793d1e0062d636d73c94fa676f38e62e0d4351c49a
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -934,9 +972,9 @@ entries:
   certmanagerio-certificate-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.272556785Z"
+    created: "2021-03-07T08:27:22.921305225Z"
     description: Certificate Editor
-    digest: 1fd52f911c0fcfb415c9a98dac1f3ef2c8f7cec63ed517af5fa3e079a3ac9330
+    digest: 13085fab0d823951224218a797f78c33bbde9760a5a06f9656375c5850dbcd08
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -953,9 +991,9 @@ entries:
   certmanagerio-certificaterequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.272943292Z"
+    created: "2021-03-07T08:27:22.921580728Z"
     description: CertificateRequest Editor
-    digest: eb087b2d1cacdeede33d3d1e6fbcbe30806f3c09c5d12630f708069e8f486337
+    digest: 41064c35cb8b46f7d056908d6fddf1cc1050f27d9479d08d88c49404b26eee81
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -972,9 +1010,9 @@ entries:
   certmanagerio-clusterissuer-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.274191915Z"
+    created: "2021-03-07T08:27:22.922404435Z"
     description: ClusterIssuer Editor
-    digest: c3e7fea43c904cb144924a5a142f34f8f4623562d7e0233455ed6024bea66332
+    digest: 05812d257788deb5b9de088b3124cb9e41269aab203b87ee3f1bd996ab7b2ca8
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -991,9 +1029,9 @@ entries:
   certmanagerio-issuer-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.275333836Z"
+    created: "2021-03-07T08:27:22.923247143Z"
     description: Issuer Editor
-    digest: 99193c4f48856f98dcc6cc175fb2fbac251224301e4da41b49f1fac755461678
+    digest: 3675e98ad1a047644e357601d1f587ace99b83e42850bf671b3f4fa6d48c016d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1010,9 +1048,9 @@ entries:
   clusterxk8sio-machine-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.275622441Z"
+    created: "2021-03-07T08:27:22.923904849Z"
     description: Machine Editor
-    digest: a443d9d7d7cccf773667d7d6d4ab2b85050cf0ddc52d861de07ec6ce170b79dc
+    digest: 8f32badd7a3887dedcf0e74c1ffafc016e80774b70dc9d51e85f910475340fe9
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1029,9 +1067,9 @@ entries:
   clusterxk8sio-machineset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.275909546Z"
+    created: "2021-03-07T08:27:22.924398754Z"
     description: MachineSet Editor
-    digest: 50976719230d4881ec6de6fba9150724c5d778293b6ec66113dd09120ebe6819
+    digest: 39cf87cbd6a85f385e42fca12c58fba957f9b81d1e381a15c59e0758bbaf53d1
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1048,9 +1086,9 @@ entries:
   coordinationk8sio-lease-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.276195252Z"
+    created: "2021-03-07T08:27:22.924847658Z"
     description: Lease Editor
-    digest: 10d3cee0a1a798f94c6e46ad722ccd9d46b70f077b2fc966f3d799f4b7831afd
+    digest: 243b8cff2278cac202089267d2a1d6d9c3ee7670918513bd0e2f5f12d1929b1b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1067,9 +1105,9 @@ entries:
   core-binding-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.276508157Z"
+    created: "2021-03-07T08:27:22.925171861Z"
     description: Binding Editor
-    digest: dff8df47016c7eb77374ec412c2664bd81860b95b583bc0f4de1f9740de0f613
+    digest: 9335307204e1dc2827ac98747a6dbc7003653f8e50b84214eb043e66092d7d06
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1086,9 +1124,9 @@ entries:
   core-componentstatus-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.276924365Z"
+    created: "2021-03-07T08:27:22.925469364Z"
     description: ComponentStatus Editor
-    digest: b5bd52c54c57d78b3e3a31001b9114fafa849e84aa4048976b8e9a776bbfd5cc
+    digest: 29ef866918a53663268195dba4f70c3d8050e116c33a1e3f992fdf9ac1079596
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1105,9 +1143,9 @@ entries:
   core-configmap-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.277251171Z"
+    created: "2021-03-07T08:27:22.925971668Z"
     description: ConfigMap Editor
-    digest: ce29362474e337b984991c2315681b610d652821f44c9beac00f5f0730253e15
+    digest: 5547f510bbda462e6957cde01cb014a178a7648f00c02204f5e3ad49956adf4d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1124,9 +1162,9 @@ entries:
   core-endpoints-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.277660578Z"
+    created: "2021-03-07T08:27:22.926367872Z"
     description: Endpoints Editor
-    digest: 7d3f5f0555ba88907be1ad63b0dc9538e9daaab4a93e3062f405e52770a42e1b
+    digest: 4fec1aa2cb7ecdf3ab52547ed7608dc1889ef215708c10681bd0e4a95073d0db
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1143,9 +1181,9 @@ entries:
   core-ephemeralcontainers-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.278215988Z"
+    created: "2021-03-07T08:27:22.926958178Z"
     description: EphemeralContainers Editor
-    digest: aef079b52c7b2da7b5aa59e9bb9c106d27dd6b61b04dfd95684707bdcc8a328e
+    digest: 52e17a45abec73e24f0c7341459fe33187975aa3f3d4b751601f41691ff87a09
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1162,9 +1200,9 @@ entries:
   core-event-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.278549095Z"
+    created: "2021-03-07T08:27:22.927319381Z"
     description: Event Editor
-    digest: 5441d93e52709c575c26edfa136709b2441b80946edac8a7d4b5753414d6b500
+    digest: f7831db75b6dc2e1d6959c771fa4fc74a871dd04e72baf039dd2029bd8750410
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1181,9 +1219,9 @@ entries:
   core-limitrange-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.2788529Z"
+    created: "2021-03-07T08:27:22.927670784Z"
     description: LimitRange Editor
-    digest: 1ecd9e05028b8979f9a1560ea98c8b6c8cf84c1c17d3bbd40f7b168e767ec01d
+    digest: 655ffe63a67b45ae3f106e4f22c65f3008807efff04ed98e0cc4b91525c61921
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1200,9 +1238,9 @@ entries:
   core-namespace-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.279148705Z"
+    created: "2021-03-07T08:27:22.927919887Z"
     description: Namespace Editor
-    digest: 307e32a912a56523b63652cc7b681a434e7ac7bc594feaf2e534eb418e555865
+    digest: 6c865fe1409bc1d65bcb06f30398984353a318d0fec309e8733e5aaad25c09f4
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1219,9 +1257,9 @@ entries:
   core-node-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.279550813Z"
+    created: "2021-03-07T08:27:22.92825389Z"
     description: Node Editor
-    digest: d1a5edb1742a8a85057dfede8ce09d455717b67bfabcd49de8c5778dc8faf630
+    digest: 68072a701acc526a8eb32ed4ec651b0fa25f86fccabb8e522b86cc11128bd8aa
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1238,9 +1276,9 @@ entries:
   core-persistentvolume-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.280625532Z"
+    created: "2021-03-07T08:27:22.928779795Z"
     description: PersistentVolume Editor
-    digest: 85be1a0506b42a692eddea8662c3a1ce8b41595968a0e58266f03f91a91140fc
+    digest: 429e068c330631efea3833908596e08fa665e19d0e5e8bf455dde9df046942ba
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1257,9 +1295,9 @@ entries:
   core-persistentvolumeclaim-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.281147342Z"
+    created: "2021-03-07T08:27:22.9293332Z"
     description: PersistentVolumeClaim Editor
-    digest: 9edabf14da5c65291942be5428150c1258aaf6d57a4e80f7fd7d4d764c2bd7b5
+    digest: c6ff709645112fb4e403c44505e1db87b6a3a715cb50fd77473f20f27c4d1cce
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1276,9 +1314,9 @@ entries:
   core-pod-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.283534985Z"
+    created: "2021-03-07T08:27:22.930958515Z"
     description: Pod Editor
-    digest: 0433e21ed23a3cd99d4d405a929c4d88f5bcac3b9c5c45cef747e1e1ae27ba03
+    digest: 70bad3c421d8fafd6fcdeb0b9dc6a1f057c9e04fbd2e18196e4b984ac49eaf31
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1295,9 +1333,9 @@ entries:
   core-podstatusresult-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.283948393Z"
+    created: "2021-03-07T08:27:22.931285518Z"
     description: PodStatusResult Editor
-    digest: 3a4768c644d1766d3964ac1e7bce0d856e0c4586e1eed789eb24e7da7932cbb3
+    digest: 2511499f8fedefa46e9df1bf636b2f7c981a4be56a4c6c88096271a42a0c6cba
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1314,9 +1352,9 @@ entries:
   core-rangeallocation-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.284263999Z"
+    created: "2021-03-07T08:27:22.931597521Z"
     description: RangeAllocation Editor
-    digest: 420f0abd5e0682246a26d89dd67b7d83113dc91bee5b31e2d0326d52fcbd8cb3
+    digest: 9b3e706c7947a7b765114e1fc6323e5ff733f3c3e04c30f6722ef0ce6ff09f9d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1333,9 +1371,9 @@ entries:
   core-replicationcontroller-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.285937129Z"
+    created: "2021-03-07T08:27:22.933092235Z"
     description: ReplicationController Editor
-    digest: 749f4cd6a13d4f7b84086ea50b6cf74df38ddefe5228c1a66fcee108aef3f1f2
+    digest: c9c2e747f6a9c71118f62217bd7070f67d192c9e2ace4fa8f35d8b04721000a8
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1352,9 +1390,9 @@ entries:
   core-resourcequota-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.286247135Z"
+    created: "2021-03-07T08:27:22.933381637Z"
     description: ResourceQuota Editor
-    digest: 9c70a0f1f398c00c404f3e59da9d8e998145dcfc5191972f43dd123f03e2c5c2
+    digest: aac5daedcdebfa9ee05924090676767ae0a168acc093b033c516fa7e4c41c8e2
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1371,9 +1409,9 @@ entries:
   core-secret-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.286606241Z"
+    created: "2021-03-07T08:27:22.93367184Z"
     description: Secret Editor
-    digest: b0bed9e3e771970f709e5f1fdd097489d79691e93bb64dc24133ea21fa3d6c91
+    digest: 1976c71360b58d82066dec690ba277b9d106584bc2ea6156049bd6f3212b450e
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1390,9 +1428,9 @@ entries:
   core-service-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.287243053Z"
+    created: "2021-03-07T08:27:22.934116044Z"
     description: Service Editor
-    digest: cdde55015560989d96455aa0b767b755fe7b72449584f10bfb05d10d5cc8ca15
+    digest: a267fcaeda3ff75c85f1668936dbf1754d77ccb77c2151a1099e25186cccfc31
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1409,9 +1447,9 @@ entries:
   core-serviceaccount-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.287704061Z"
+    created: "2021-03-07T08:27:22.934855251Z"
     description: ServiceAccount Editor
-    digest: c7f915d2e33cd905cb3f326c949804640ea01a8c7c901711a3fa2fa758dc1fe1
+    digest: 297b7071118f728e47649dc788d1f0e288bbb906725bc6d4d0106c6b5e476a13
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1428,9 +1466,9 @@ entries:
   discoveryk8sio-endpointslice-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.288136569Z"
+    created: "2021-03-07T08:27:22.935281655Z"
     description: EndpointSlice Editor
-    digest: 05f05408b9c76c9bced12dd622a756d26706f23ae8ee21b8157739d4f82cdb0c
+    digest: 08b48910022a57b1c02ef2957c3ba12b19db04012173658f2cab2da05d6468d1
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1447,9 +1485,9 @@ entries:
   enginekubevaultcom-awsaccesskeyrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.288563077Z"
+    created: "2021-03-07T08:27:22.93577606Z"
     description: AWSAccessKeyRequest Editor
-    digest: ba3cf0a7d2234f3dd1daeb0745f33fc48edb88447f452f505138c9a110813f96
+    digest: a6187dad79ede1928febf374e978ecee83a3a62ae2188bed4b6d38ce193e6e16
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1466,9 +1504,9 @@ entries:
   enginekubevaultcom-awsrole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.288926884Z"
+    created: "2021-03-07T08:27:22.936291164Z"
     description: AWSRole Editor
-    digest: ef6faf51261c1f57a5557eeccb7c46a85139ce2f23156ddab2fe9cd393b62cbd
+    digest: 13963cbe36cefe55c6760cfb458db49204c6627e98a5814f759562a7597da66b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1485,9 +1523,9 @@ entries:
   enginekubevaultcom-azureaccesskeyrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.289333591Z"
+    created: "2021-03-07T08:27:22.936740269Z"
     description: AzureAccessKeyRequest Editor
-    digest: 818cb2198aa2bde9290215bdc575d5c1da423e4f6c31a54bbf7dd8abd7f85056
+    digest: ac2817b547f8cc0863b3e1ea38e220173f2bf90c86d7a63b60386b85364e648f
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1504,9 +1542,9 @@ entries:
   enginekubevaultcom-azurerole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.2898154Z"
+    created: "2021-03-07T08:27:22.937245373Z"
     description: AzureRole Editor
-    digest: d306aa17a0dfcf6e132b1f900ed35bb9b0ece689f75f7586612e6bf3091ba598
+    digest: ddaf540ce95caa0745f4cc0a34ed58c74de670ce4989384495dfc1460cbf1b28
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1523,9 +1561,9 @@ entries:
   enginekubevaultcom-databaseaccessrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.290198907Z"
+    created: "2021-03-07T08:27:22.937651277Z"
     description: DatabaseAccessRequest Editor
-    digest: d9d309e20233e78fbd9193c078ae0e1f81b7a4902e275e37282afc9ed3c6483d
+    digest: c605c6481904d7d561f4cc5278f7348f0ab6dfb287ca69dba049376f6a2e54f6
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1542,9 +1580,9 @@ entries:
   enginekubevaultcom-gcpaccesskeyrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.290645415Z"
+    created: "2021-03-07T08:27:22.938053981Z"
     description: GCPAccessKeyRequest Editor
-    digest: 2bc0694bc260441e61d121b9752bfe1ba8ec56e325199686412a9a111138d7f7
+    digest: ab44c186b97f4341fb6e2367dd4675a3a854ae6210dda7f5093128bdf79365c1
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1561,9 +1599,9 @@ entries:
   enginekubevaultcom-gcprole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.291020922Z"
+    created: "2021-03-07T08:27:22.938399184Z"
     description: GCPRole Editor
-    digest: d95e785986282c54885d8202c69bb6059759aa776224c1ab75c2b4654a5bf1f9
+    digest: c9f4dfc42007b96b383208b622458abb30efebdacef5f82b6d49b02c678d8704
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1580,9 +1618,9 @@ entries:
   enginekubevaultcom-mongodbrole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.29148743Z"
+    created: "2021-03-07T08:27:22.938701987Z"
     description: MongoDBRole Editor
-    digest: d9d65922cf74ee62f443bd094b446f18e1e8e32ac4adfd7aee81e824ed1eac79
+    digest: 0bb9196c98b03f8b7752e54956da06b6e05235c0d8670ef147f283553afceb82
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1599,9 +1637,9 @@ entries:
   enginekubevaultcom-mysqlrole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.292316646Z"
+    created: "2021-03-07T08:27:22.93899839Z"
     description: MySQLRole Editor
-    digest: 0289649d722992089f40c8520f57cbdbaad05b157a9443afb0730045e60ffb6c
+    digest: 86fb5f665738473ec115385731ddebe9b5ec7061c86354a27637deef98b41728
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1618,9 +1656,9 @@ entries:
   enginekubevaultcom-postgresrole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.292840355Z"
+    created: "2021-03-07T08:27:22.939393993Z"
     description: PostgresRole Editor
-    digest: 546310e5b90c5a7f6e2cd2d8198aabd4eaeab59021044f255bd243be977886db
+    digest: 638506e9c50a005affb15364b18f9cb9dd884855d307abb6f89e9b23f6a60a82
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1637,9 +1675,9 @@ entries:
   enginekubevaultcom-secretengine-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.293437466Z"
+    created: "2021-03-07T08:27:22.939827897Z"
     description: SecretEngine Editor
-    digest: 7c8249868765bf18c3437f40c931760bdd932abe30507aacc2ab9099f49c1816
+    digest: 0433bc3fcc591bcc78d44f730dcb80e9928f9bff464b855997a3435af27ad786
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1656,9 +1694,9 @@ entries:
   eventsk8sio-event-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.294393783Z"
+    created: "2021-03-07T08:27:22.940184601Z"
     description: Event Editor
-    digest: b2cf42e3a2a76d109fa04ae63efd4cbbca5c45beaeca134ab05854b6e1a62595
+    digest: da0e8b43129a866bd0e0ef7f8c25d554142bd24625e959dab5b9752e189939f9
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1675,9 +1713,9 @@ entries:
   extensions-daemonset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.296156816Z"
+    created: "2021-03-07T08:27:22.941859116Z"
     description: DaemonSet Editor
-    digest: e02378670202f483e96cf182aa8ecf455a049984df6227acd4da7adc10c0db50
+    digest: 0b500ad2315470f4886e25b6d39aa68c28dc68faa0a51b3428c71740e8ac362f
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1694,9 +1732,9 @@ entries:
   extensions-deployment-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.298013349Z"
+    created: "2021-03-07T08:27:22.943432631Z"
     description: Deployment Editor
-    digest: c5f7298bce16c72a85697dd35c4012da0afafbfc6e62e78584bbc5872bba2035
+    digest: c25597f8f9b9bc662fcc83bb612366ff1d4cbdc4d37a54c8682e8ec0cb3f51f6
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1713,9 +1751,9 @@ entries:
   extensions-ingress-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.298467858Z"
+    created: "2021-03-07T08:27:22.943741634Z"
     description: Ingress Editor
-    digest: 58ccdc74603046c5fff77a26405a755b1df861ec2548b4eaad862138c4533442
+    digest: 18c8cebb8f6af34c084148591fedd2aa39eb018c80ffb8be058c83f0c396e7c4
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1732,9 +1770,9 @@ entries:
   extensions-networkpolicy-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.298961867Z"
+    created: "2021-03-07T08:27:22.944037537Z"
     description: NetworkPolicy Editor
-    digest: 16d9f0ce36e96dfa26873b13e5945b6104b57721d270fa66e1be35e061aa3b75
+    digest: 7a4e07331b8cc056a6676baebde0e4c28be265353eb0278e15e9782e4be2130f
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1751,9 +1789,9 @@ entries:
   extensions-podsecuritypolicy-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.299351174Z"
+    created: "2021-03-07T08:27:22.944630942Z"
     description: PodSecurityPolicy Editor
-    digest: 9bd7eebff0fafb1e23c66c6be0fb33079294765978d033486fdd74cb56cdb915
+    digest: 8a0884168b56e35a9412d40778527dafde3b459adefeb81b69fab86724cf4558
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1770,9 +1808,9 @@ entries:
   extensions-replicaset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.301619615Z"
+    created: "2021-03-07T08:27:22.946259157Z"
     description: ReplicaSet Editor
-    digest: 60e40b33a3977aadb64a1c269a8b0920b8e4e96477af41c332839bcef2584537
+    digest: d934168fd5f6520a668aee44f66c9843b812ca22c8c4293ff99ede21d2bac0b6
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1789,9 +1827,9 @@ entries:
   extensions-scale-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.302156925Z"
+    created: "2021-03-07T08:27:22.946785862Z"
     description: Scale Editor
-    digest: 797e004836912f5cc107d55a7f9eca61b5572a785c4c6a9f34f27ef99b6a72d2
+    digest: f4c1937a35e3a4a038b9003278659e807922afdc47503a93a1178f3f4c1464bc
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1808,9 +1846,9 @@ entries:
   flowcontrolapiserverk8sio-flowschema-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.302809437Z"
+    created: "2021-03-07T08:27:22.947096765Z"
     description: FlowSchema Editor
-    digest: 6c7cfe03b76fa702d6cf38289391e34ba19c3c6f91808ecb057504ebea2d7e22
+    digest: 9a79ee70cf9183022769f1ff8539b35854796d93f684c56ca74d559bf642c726
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1827,9 +1865,9 @@ entries:
   flowcontrolapiserverk8sio-prioritylevelconfiguration-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.303412648Z"
+    created: "2021-03-07T08:27:22.947362667Z"
     description: PriorityLevelConfiguration Editor
-    digest: 33f8b1069c56393d026efa68401b2b84652d1ddb7df1ad3f4e55366295ff3e1f
+    digest: a98828fd400145141d4a7f0b541fafe0d3ea5bbb54c7478bc7d608730ea9a6cb
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1846,9 +1884,9 @@ entries:
   grafanasearchlightdev-dashboard-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.304229063Z"
+    created: "2021-03-07T08:27:22.94760997Z"
     description: Dashboard Editor
-    digest: 3459df034b73560e7f4cd65114df72f7e2ac015069e9a24cdb9d5aeb72588db3
+    digest: cdf3a5febfd898b8290636094e1ec824791c0b660d93975d9f940ff3da7b70fe
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1865,9 +1903,9 @@ entries:
   grafanasearchlightdev-dashboardtemplate-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.30460727Z"
+    created: "2021-03-07T08:27:22.947850972Z"
     description: DashboardTemplate Editor
-    digest: 0d3de9a191d1e02f5805245a2b24028b6f402812e4dd78435118f7b20dc1a352
+    digest: fdbde4b498bfed0a200b8b17c563bacda78cfd65c56fc90ff77039e08fd09db4
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1884,9 +1922,9 @@ entries:
   grafanasearchlightdev-datasource-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.304962876Z"
+    created: "2021-03-07T08:27:22.948091374Z"
     description: Datasource Editor
-    digest: f891f24b8c6710c67436eda537b488b56aba332936d98124a95f62c23c22baa5
+    digest: 727d5b96767b07b7d57fe8b2c2e4467c22c38235d149d3d4b5b6e9e51d0f76d4
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1903,9 +1941,9 @@ entries:
   imagepolicyk8sio-imagereview-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.305295582Z"
+    created: "2021-03-07T08:27:22.948369477Z"
     description: ImageReview Editor
-    digest: f6b73bc74fd21d133a1a11128b16f59d43822139e5b2f2beef131b8133600ae1
+    digest: fa58f8397ec4a4a084f45ace4d747ff6eb2811de666791c4e838e6c57da40c6c
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1922,9 +1960,9 @@ entries:
   kubedbcom-elasticsearch-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.306528005Z"
+    created: "2021-03-07T08:27:22.948992283Z"
     description: Elasticsearch Editor
-    digest: eb479848b2fe34cc2d7bf78243a862925ada0dd78aa096b9dd7e855a7df09fdc
+    digest: 2c391a7ef31222e46c87a751d87b2ac20464fd2f3b39250e0725e4b3cfbad905
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1941,9 +1979,9 @@ entries:
   kubedbcom-etcd-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.307549423Z"
+    created: "2021-03-07T08:27:22.949588288Z"
     description: Etcd Editor
-    digest: 90535ed11a6f4c8c1a11113a98b71a99c3f23e0d950f889e7711c4ddecb55ef9
+    digest: 350f4006843530a2474f80f666656e4c0ada9fac955c03968b7f6e0dd054baea
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1960,9 +1998,9 @@ entries:
   kubedbcom-mariadb-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.308580142Z"
+    created: "2021-03-07T08:27:22.950190294Z"
     description: MariaDB Editor
-    digest: 144edd017cc563cb5f5142ba3893b16371b96b4e2a4d1c48c5a86ae1a85bfc6b
+    digest: 24443762d695de6721175b6e975e6c6beb7af7bd412bd4341daaf860072599d6
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1979,9 +2017,9 @@ entries:
   kubedbcom-memcached-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.309512659Z"
+    created: "2021-03-07T08:27:22.9508556Z"
     description: Memcached Editor
-    digest: 352c5282f600287462feddd56e17ecdd9dbd676b7e5b89293a0ebb5d0fd922eb
+    digest: 489266b8800b0e97519598ecfd460067c62da84c2ac482ea255b4e53d8af3e8a
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -1998,9 +2036,9 @@ entries:
   kubedbcom-mongodb-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.320678263Z"
+    created: "2021-03-07T08:27:22.955701545Z"
     description: MongoDB Editor
-    digest: 4ccd1211bdf25d43959fb4414733f3f8aa3afef7aa322d19f29b43d31cca54ec
+    digest: a09f8ee54a5263bb4825357cf9e8f5dfe92c04852269535a162dc4868a80c6ed
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2017,9 +2055,9 @@ entries:
   kubedbcom-mongodb-editor-options:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.323915522Z"
+    created: "2021-03-07T08:27:22.95728506Z"
     description: MongoDB Editor UI Options
-    digest: ca2b374a8c1882f95ec0b06800d94888d9c5d0c43dbf699c0164a6f53666babf
+    digest: b3cfa439c1e805716f33a80b11231e9aac02ec7aceaf6c95b3f773f9e930dc14
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
     maintainers:
@@ -2033,9 +2071,9 @@ entries:
   kubedbcom-mysql-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.325013942Z"
+    created: "2021-03-07T08:27:22.958085067Z"
     description: MySQL Editor
-    digest: 09ffb9da2bc246e4aceabf804a152bfa0cf9c24b8d0e76edb07075af143cd70f
+    digest: 1104eea1b74d80c3807ba4bc172efa4954850047a2f63fa8500b27932d970e60
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2052,9 +2090,9 @@ entries:
   kubedbcom-perconaxtradb-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.32602306Z"
+    created: "2021-03-07T08:27:22.958834674Z"
     description: PerconaXtraDB Editor
-    digest: 8ff3acac2f6a824452914137d589fe18b4ad30a14c61614bb6a4f0217308e427
+    digest: e8e97764a84d21aa3f51364c2ea0e800a63d352b0f6ce4cddaabd532218abca9
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2071,9 +2109,9 @@ entries:
   kubedbcom-pgbouncer-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.326753674Z"
+    created: "2021-03-07T08:27:22.959355579Z"
     description: PgBouncer Editor
-    digest: 8655f828a553616f87d5c9f6df256112422c8af21d62e4296a420ddccf93f0df
+    digest: a238df00fced595145d025c367851d0f5c892837ed5eb7dc812bcf4feaf08f76
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2090,9 +2128,9 @@ entries:
   kubedbcom-postgres-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.327892794Z"
+    created: "2021-03-07T08:27:22.959996685Z"
     description: Postgres Editor
-    digest: 01bb77c4b4640fef483a0b8d2958088bf640477455908dd50f9ea36afa7e69e2
+    digest: 9f1b2337155779dec34e528f5a1801b377da8e8c310ebe819b7c6d233dab1a87
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2109,9 +2147,9 @@ entries:
   kubedbcom-proxysql-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.328811311Z"
+    created: "2021-03-07T08:27:22.961151896Z"
     description: ProxySQL Editor
-    digest: b825db44dbd55f3cd89754604b20c8b8afaa2cd6e8759a022820b34d5924f5af
+    digest: a52f52c1851a108ef3240859da56ff94bea54f23287f029f1d1fccbcf3250d52
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2128,9 +2166,9 @@ entries:
   kubedbcom-redis-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.330278338Z"
+    created: "2021-03-07T08:27:22.962122505Z"
     description: Redis Editor
-    digest: 32b9a220625c5571b4e4ad59cc46db17f4fac14a2da3d7e1a842a500e9fab587
+    digest: 9b11e0b23e1d43763d791cd6b9df387a58dc77b287a70741df7d951b124b53c7
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2147,9 +2185,9 @@ entries:
   kubevaultcom-vaultserver-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.33475842Z"
+    created: "2021-03-07T08:27:22.964998332Z"
     description: VaultServer Editor
-    digest: a6e75d6b9c2b08af5ba1940cc2a007aa21f3533e3aeec22c6abc1517b70e58fc
+    digest: b87f70e4ffeafe1c39a0b675a9592ae243e97a41dcf7d681a66f8a756f9c1696
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2166,9 +2204,9 @@ entries:
   metaappscodecom-resourcedescriptor-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.335149427Z"
+    created: "2021-03-07T08:27:22.965219934Z"
     description: ResourceDescriptor Editor
-    digest: 1dd50d0cd7a9b9cad70e5c197656d502a1f6c4efc29de73e892378b8a6a42a64
+    digest: 63313adac89915439a851b06601dc995d35f99471ae741ef72ba3395f58dd82b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2185,9 +2223,9 @@ entries:
   monitoringcoreoscom-alertmanager-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.337030661Z"
+    created: "2021-03-07T08:27:22.966437845Z"
     description: Alertmanager Editor
-    digest: c6ad3ccb81085f0e3b9bd876e11aef878f40184e51d8e4af4290be820d90c569
+    digest: 335af0ee6b80534c3bd6acd29245d9e63969a99c21b7da7461be37f7221d8427
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2204,9 +2242,9 @@ entries:
   monitoringcoreoscom-alertmanagerconfig-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.337644172Z"
+    created: "2021-03-07T08:27:22.966830249Z"
     description: AlertmanagerConfig Editor
-    digest: 93b4c34ec80473452c755dd15cc67c7c28ac0a01923e69f8bd719f11c0156f8c
+    digest: b312312171496367b18a127e930e017451f1c872016f8f443db636fb38059f81
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2223,9 +2261,9 @@ entries:
   monitoringcoreoscom-podmonitor-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.33805898Z"
+    created: "2021-03-07T08:27:22.967129351Z"
     description: PodMonitor Editor
-    digest: 4547624336a8b4c1705300361ca4f2c6ee0c432d8ed58256663551df7ecb5192
+    digest: 434283a16eb7dcdae3c9c3cf39d0455fa0ded493a0cf011ac43c2b18da383b71
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2242,9 +2280,9 @@ entries:
   monitoringcoreoscom-probe-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.338463487Z"
+    created: "2021-03-07T08:27:22.967425954Z"
     description: Probe Editor
-    digest: 438d96a08692cce4df7deb5d96bd14a2b923cb43b0db1d699132247500af4f91
+    digest: bb29f1aef4e0ccb76243968ca7232dad8dcace72e925dc62a86f5f4bbc2788bf
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2261,9 +2299,9 @@ entries:
   monitoringcoreoscom-prometheus-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.341313739Z"
+    created: "2021-03-07T08:27:22.969652175Z"
     description: Prometheus Editor
-    digest: 4516faaf251c37eb38c3a378201e2adba112477edd823bbaf0c7726a7aa2f76e
+    digest: 4a6746bf7e6ebe6616839be31747ce010f5c844c3e9da87a971b532710d04041
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2280,9 +2318,9 @@ entries:
   monitoringcoreoscom-prometheusrule-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.342042452Z"
+    created: "2021-03-07T08:27:22.970005178Z"
     description: PrometheusRule Editor
-    digest: 68ec440b8da3156988784b93d4efafd3bc124512d08aea33c3d2b8d6a229b736
+    digest: 53564c8d4b7f0057a22ea10d29f0df6f43572e614bd5960cfc36634b41885fd5
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2299,9 +2337,9 @@ entries:
   monitoringcoreoscom-servicemonitor-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.342807466Z"
+    created: "2021-03-07T08:27:22.970797786Z"
     description: ServiceMonitor Editor
-    digest: fc74938e2b4d9f6597d0909de75f77a2bf48cced6ff2d4790432e74963e0244f
+    digest: 7f02d3b83abdd0f40052cc6b617dfdd05a203f7a47227532ae4faf5bb3b51d1d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2318,9 +2356,9 @@ entries:
   monitoringcoreoscom-thanosruler-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.345579617Z"
+    created: "2021-03-07T08:27:22.972999006Z"
     description: ThanosRuler Editor
-    digest: 075ea4a899bc82c90340192e9dedd92ed51aeff9a09ed3e48b2d0a532643c1a4
+    digest: 29f61beb9fcd264cfae71d2447f4aab836fd8a4160adfaaeea641319b635d365
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2337,9 +2375,9 @@ entries:
   networkingk8sio-ingress-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.345998225Z"
+    created: "2021-03-07T08:27:22.97343221Z"
     description: Ingress Editor
-    digest: faa4dba3ef5970f934396b7513371c3a0cf36c445ccbcf795ff01c0a0073f5fd
+    digest: fe368c6d3dd6e1668f3e41a6afd652fdc08b36691a99176e282f59119988b809
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2356,9 +2394,9 @@ entries:
   networkingk8sio-ingressclass-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.346323631Z"
+    created: "2021-03-07T08:27:22.973756213Z"
     description: IngressClass Editor
-    digest: 22cef895f186e0a14e7449790d9ea5b648d735c927040698d90d2a56e59f0089
+    digest: 876e3e9da337465596efe916936e035db0abacc81f5e54d91fa758eeaee28432
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2375,9 +2413,9 @@ entries:
   networkingk8sio-networkpolicy-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.346715538Z"
+    created: "2021-03-07T08:27:22.974157317Z"
     description: NetworkPolicy Editor
-    digest: fce58434196b2f36faab8405e09f200d034e20fbc97b412ad3f47fcde6ef676a
+    digest: bdea9e3e754191853cf136f2c847cc9064b804825202a0fba18d5e8b1039927d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2394,9 +2432,9 @@ entries:
   nodek8sio-runtimeclass-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.347080044Z"
+    created: "2021-03-07T08:27:22.97445262Z"
     description: RuntimeClass Editor
-    digest: 8d955b2d7fb9e1074a8e302d1f5ac89bfc53d25086050d33c1743e273711fba8
+    digest: 95ed1aa7ee3d073142ecf0b32925a4f2e0c6418b23a333d4ef7781b9c4ddc3bf
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2413,9 +2451,9 @@ entries:
   opskubedbcom-elasticsearchopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.347659255Z"
+    created: "2021-03-07T08:27:22.974726022Z"
     description: ElasticsearchOpsRequest Editor
-    digest: 828a15f404091cb1d18a15e37fa9756756e5653ecbbc2e38fc24f987ddae3a94
+    digest: 7704e9ed8c0febd426cca353ba3c0aab74bc32ee700da8796a333332b2a897a3
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2432,9 +2470,9 @@ entries:
   opskubedbcom-etcdopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.348022461Z"
+    created: "2021-03-07T08:27:22.974979724Z"
     description: EtcdOpsRequest Editor
-    digest: 338fb6a9168c5ddf0f738f57c3edf4642ac74b83de949a0079a8c7e8416e5f09
+    digest: 6d47726e8b511e5dc3a364d1c922a000604bf944fac8e3715eacb3e9a05c274f
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2451,9 +2489,9 @@ entries:
   opskubedbcom-mariadbopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.348379768Z"
+    created: "2021-03-07T08:27:22.975239627Z"
     description: MariaDBOpsRequest Editor
-    digest: b7303ad0f4dac08e24633faa76f3ea10524b403fd9d2a945c509f35b3f846170
+    digest: 8efc4c51cc0b0fb0747fb80fe5c117f7ca63544325e030d710713da99e5cfe17
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2470,9 +2508,9 @@ entries:
   opskubedbcom-memcachedopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.348746075Z"
+    created: "2021-03-07T08:27:22.975490229Z"
     description: MemcachedOpsRequest Editor
-    digest: ece38a86a74082ea7d8cc36588c29839e1cf2f861ccb82cc6e6c6a6ce5ceee6a
+    digest: 66c3adc40015d2b6238caeb3027f88a0b6942a896a8a74b15f3c68f62ee912d2
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2489,9 +2527,9 @@ entries:
   opskubedbcom-mongodbopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.351650128Z"
+    created: "2021-03-07T08:27:22.977303646Z"
     description: MongoDBOpsRequest Editor
-    digest: b1dec5c37433fb5fc0e8df70a2dd62c4d6249f929ecefc3e4e16b85989e0e20d
+    digest: 10632d99d0c492ec47c662e961ce09ba64cd140734fea52ab8d02db84302d58d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2508,9 +2546,9 @@ entries:
   opskubedbcom-mysqlopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.352744048Z"
+    created: "2021-03-07T08:27:22.978013253Z"
     description: MySQLOpsRequest Editor
-    digest: 1dbeb4952550bbd3b30f52853740d85e7481d153423234870887141f11025ebe
+    digest: b4635ed621cce6304c33ff328b40e5ac52a2e619e54d8904068a93f4b075cdf4
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2527,9 +2565,9 @@ entries:
   opskubedbcom-perconaxtradbopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.353133855Z"
+    created: "2021-03-07T08:27:22.978363056Z"
     description: PerconaXtraDBOpsRequest Editor
-    digest: 89c4ec888035d6532c3d609081f9952b53f0a4e17d022eef69350c5a35bbe8d9
+    digest: ed68d75a3f1f3a958530c9781bb5ac062f99e84c83e915cdc167b3b2a4e66865
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2546,9 +2584,9 @@ entries:
   opskubedbcom-pgbounceropsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.353505761Z"
+    created: "2021-03-07T08:27:22.978923361Z"
     description: PgBouncerOpsRequest Editor
-    digest: 7d7318fab70b0297f4cd4ba2ff03ae41d4dbca66a5974bf561cb8ea4dbb557d5
+    digest: b88f34cc7a36f818755a0519d9e0c81bc03890071e8b7fdba26a9794ea40323b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2565,9 +2603,9 @@ entries:
   opskubedbcom-postgresopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.35399437Z"
+    created: "2021-03-07T08:27:22.979229164Z"
     description: PostgresOpsRequest Editor
-    digest: 4c570c7727b463aeb9fd97b57e89592643ca510c80be36a33825155a3188c6b5
+    digest: c1531be8a88491f4216ecd458f1077be3206eae7b5939095d0435743b1aeed21
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2584,9 +2622,9 @@ entries:
   opskubedbcom-proxysqlopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.354402978Z"
+    created: "2021-03-07T08:27:22.979493466Z"
     description: ProxySQLOpsRequest Editor
-    digest: b14e59deddcc126aa10a470815205bf7c6ceb0f34a797d9d82ad9f23bfaaad80
+    digest: 423e689729268998925e60d1dccc1284ac6bf1df2f4d2befc6e907379bdb0375
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2603,9 +2641,9 @@ entries:
   opskubedbcom-redisopsrequest-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.355001089Z"
+    created: "2021-03-07T08:27:22.979987471Z"
     description: RedisOpsRequest Editor
-    digest: a413243263dea23e297173bec3ea438e3dcfb31d058557607e4cda8070708b2d
+    digest: 027469a0d5a85979079968592270309af1a0ec4b9504e9b53fcc6950ffcd8257
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2622,9 +2660,9 @@ entries:
   policy-eviction-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.355332795Z"
+    created: "2021-03-07T08:27:22.980268274Z"
     description: Eviction Editor
-    digest: 33c8055383019dca3a9a8da90eb160e6ceb8983460d84377a51768992adce069
+    digest: 706e761b441174dc0f1cf009226db4b9eaae32a34e2a92eee56c5a8341d04839
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2641,9 +2679,9 @@ entries:
   policy-poddisruptionbudget-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.355714102Z"
+    created: "2021-03-07T08:27:22.980511776Z"
     description: PodDisruptionBudget Editor
-    digest: 4ec1211938f1f35bd375f58d308daa6b0286fc7d5cd8b27e45f6ca1ad6f30fa4
+    digest: fe0afc1e647d7bb8f1b30d28e0b9ab1e36fa41c6907992c699bf8ceb6b687835
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2660,9 +2698,9 @@ entries:
   policy-podsecuritypolicy-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.35617041Z"
+    created: "2021-03-07T08:27:22.980800279Z"
     description: PodSecurityPolicy Editor
-    digest: 7419ae8841520cdeb805049cd8fcecb30440f8d4a199e22bc5117fefe1f9ad0d
+    digest: 497bcef3fb7c2ce58f5a9041b4eac13dfb9258a6132755205d84a9731bc4996f
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2679,9 +2717,9 @@ entries:
   policykubevaultcom-vaultpolicy-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.356517616Z"
+    created: "2021-03-07T08:27:22.981047681Z"
     description: VaultPolicy Editor
-    digest: bd4e5ac779bb5f72c4dcff44d6673a5ff39fda099eec3b64ee8d999d4f2734a8
+    digest: 0f4d02251f9ea1b24d4af454af3356a01c0a6e45d6dea8186023b6343136d315
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2698,9 +2736,9 @@ entries:
   policykubevaultcom-vaultpolicybinding-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.356886323Z"
+    created: "2021-03-07T08:27:22.981318983Z"
     description: VaultPolicyBinding Editor
-    digest: 9f40fd46645b6b3ef8e04c33a98486e01ca88ac2e0990c417674526eb18906d0
+    digest: fed0f1bdde940e8a990734f735f71d4d6dc481426f48b257dcd2fd43db8d355d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2717,9 +2755,9 @@ entries:
   rbacauthorizationk8sio-clusterrole-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.357201329Z"
+    created: "2021-03-07T08:27:22.981567886Z"
     description: ClusterRole Editor
-    digest: f2b41831f7899b705edb2b834a4c29f1c72cf6a9c5a2b34a2019621a527c7863
+    digest: 3a0106bd8f60240d8a6482c6728c14ccc64c87f81936fa7475c8b47074647f68
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2736,9 +2774,9 @@ entries:
   rbacauthorizationk8sio-clusterrolebinding-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.357607236Z"
+    created: "2021-03-07T08:27:22.981796888Z"
     description: ClusterRoleBinding Editor
-    digest: b0f9a8484019919894d4107b685a6a70cf16a5f1c935a97376d291ea62aaa35c
+    digest: d0f2e903a89c1cb8b39031d587d026bd4237d895f8a54ee8ea89f95241d8ae96
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2755,9 +2793,9 @@ entries:
   rbacauthorizationk8sio-role-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.358141446Z"
+    created: "2021-03-07T08:27:22.982110091Z"
     description: Role Editor
-    digest: 11e079f266bc238bb248bcf62e0df4656acb932ce0ab83f643e5e92b90741771
+    digest: 947216abec632c091763f38138a187013098ef6de11d3008b8d0259944ef6e61
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2774,9 +2812,9 @@ entries:
   rbacauthorizationk8sio-rolebinding-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.358542953Z"
+    created: "2021-03-07T08:27:22.982368093Z"
     description: RoleBinding Editor
-    digest: 2c29d600d10cec9e9d078e66041151c0c30a65deee5514dd920a668c558aadea
+    digest: 9510500cb86abb2ecde4e067255f57004ee3d9a91eb0706ee8b889b7434592db
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2790,12 +2828,31 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/rbacauthorizationk8sio-rolebinding-editor/rbacauthorizationk8sio-rolebinding-editor-v0.1.0.tgz
     version: v0.1.0
+  repositoriesstashappscodecom-snapshot-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.982600195Z"
+    description: Snapshot Editor
+    digest: 95b44d4e8a26a885cc54f9167e684b20f459dff57fc8b1a8f2010800654981c5
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: repositoriesstashappscodecom-snapshot-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/repositoriesstashappscodecom-snapshot-editor/repositoriesstashappscodecom-snapshot-editor-v0.1.0.tgz
+    version: v0.1.0
   schedulingk8sio-priorityclass-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.359796576Z"
+    created: "2021-03-07T08:27:22.982829097Z"
     description: PriorityClass Editor
-    digest: 45a9619d3cc490df375f96919176d49fc10e148c26a8f5c8fdec185485101f79
+    digest: d303089cadf92b8c9610678a65d20e158e5427ff1a6ec23cf0a881084b0022a7
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2812,9 +2869,9 @@ entries:
   settingsk8sio-podpreset-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.36055319Z"
+    created: "2021-03-07T08:27:22.983318102Z"
     description: PodPreset Editor
-    digest: 1fa9b3d6bcd5d824a4b19f53e6261d2d5c4368a4ed3758c4edbf3d6a5acef27c
+    digest: 723ce3c2f94151d29125eb50814a7bc1b6ab180cadb78f2ab65be86122a23758
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2828,12 +2885,69 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/settingsk8sio-podpreset-editor/settingsk8sio-podpreset-editor-v0.1.0.tgz
     version: v0.1.0
+  snapshotstoragek8sio-volumesnapshot-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.983556004Z"
+    description: VolumeSnapshot Editor
+    digest: 778d1e26a13a84802cfb4a404aa35d40ceda81acce7c1d6f33491ae6e1c209e2
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: snapshotstoragek8sio-volumesnapshot-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/snapshotstoragek8sio-volumesnapshot-editor/snapshotstoragek8sio-volumesnapshot-editor-v0.1.0.tgz
+    version: v0.1.0
+  snapshotstoragek8sio-volumesnapshotclass-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.983757406Z"
+    description: VolumeSnapshotClass Editor
+    digest: 0ccb5435feb46aa154b4de7149446d9d37a5e4cab4c6c35d563310d093ea0012
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: snapshotstoragek8sio-volumesnapshotclass-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/snapshotstoragek8sio-volumesnapshotclass-editor/snapshotstoragek8sio-volumesnapshotclass-editor-v0.1.0.tgz
+    version: v0.1.0
+  snapshotstoragek8sio-volumesnapshotcontent-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.983985108Z"
+    description: VolumeSnapshotContent Editor
+    digest: 5d035c6630f65d5ec7b8e53650fd2258a67e124d426e3dd3a5e76d371ec346a5
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: snapshotstoragek8sio-volumesnapshotcontent-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/snapshotstoragek8sio-volumesnapshotcontent-editor/snapshotstoragek8sio-volumesnapshotcontent-editor-v0.1.0.tgz
+    version: v0.1.0
   stashappscodecom-backupbatch-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.362938634Z"
+    created: "2021-03-07T08:27:22.985673024Z"
     description: BackupBatch Editor
-    digest: 03bfea1e12dd476c6780c4bbc138be8be3778e9df7798657ce621c7366de146f
+    digest: 007decdc5dd2869f966e47085191c53ef93b867c940a5749b5b823b1d33da7fc
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2850,9 +2964,9 @@ entries:
   stashappscodecom-backupblueprint-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.365575082Z"
+    created: "2021-03-07T08:27:22.988189347Z"
     description: BackupBlueprint Editor
-    digest: eaea09c05f0c3035c6b7cbf6c3b124efd381e66981639911ff0c468b39dca6af
+    digest: 6845410e6c9d369574588636fe75cda4815ea376cb17b7f8201ec9be6f7f0b15
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2869,9 +2983,9 @@ entries:
   stashappscodecom-backupconfiguration-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.367444216Z"
+    created: "2021-03-07T08:27:22.990073865Z"
     description: BackupConfiguration Editor
-    digest: 949bc25216e21f780f2e96d24ef26f809daf9ba8e51dcabe84a2978802ba8186
+    digest: 1deac6327866d673937f44918fe1d89d6c5d2ea20e5f68baa9f635e861288759
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2888,9 +3002,9 @@ entries:
   stashappscodecom-backupsession-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.367936525Z"
+    created: "2021-03-07T08:27:22.990480369Z"
     description: BackupSession Editor
-    digest: c815ce8b63fa89763831b824fe55daa1f160caef7dacc8d7ea245e496eb0e555
+    digest: 97b903ab24ce6c03ef7bbbb56a3f9d31d392bc44825ead62d1a82138df10c00d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2907,9 +3021,9 @@ entries:
   stashappscodecom-function-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.36877884Z"
+    created: "2021-03-07T08:27:22.991145675Z"
     description: Function Editor
-    digest: fb61a6316cd7f3892269e5342ce7d67687971ac7f7de055ce85e6acc2a7c0b2e
+    digest: 081a30570189dd6a7c6eb917d9543e500fa6b05019159295d4fbed65bbca6702
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2923,12 +3037,31 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/stashappscodecom-function-editor/stashappscodecom-function-editor-v0.1.0.tgz
     version: v0.1.0
+  stashappscodecom-recovery-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.991863582Z"
+    description: Recovery Editor
+    digest: 7d3eaf2b0b8a9fcf301288f728ce37ab1dd878a2fe87872ea17788b6161eae50
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-recovery-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-recovery-editor/stashappscodecom-recovery-editor-v0.1.0.tgz
+    version: v0.1.0
   stashappscodecom-repository-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.369777858Z"
+    created: "2021-03-07T08:27:22.992649789Z"
     description: Repository Editor
-    digest: 18d38abc4abb52fda4cb4da3f4ad68987d1778da3bba87d990f225045f58923e
+    digest: 16eae07c46b9859e18a4da05cabc395ae5ec407ff24e9a1f32b48c58c7b64122
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2942,12 +3075,31 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/stashappscodecom-repository-editor/stashappscodecom-repository-editor-v0.1.0.tgz
     version: v0.1.0
+  stashappscodecom-restic-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-03-07T08:27:22.993612198Z"
+    description: Restic Editor
+    digest: 3b1e4da2f00a99d2422f545e7671bcea975fc07a82be448087392c599cd45966
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stashappscodecom-restic-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/stashappscodecom-restic-editor/stashappscodecom-restic-editor-v0.1.0.tgz
+    version: v0.1.0
   stashappscodecom-restorebatch-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.371934498Z"
+    created: "2021-03-07T08:27:22.995099612Z"
     description: RestoreBatch Editor
-    digest: 412a2b1653400e96676e35be4be789b3f1d8347d482888b34e9c09acb90caff0
+    digest: 55567c85dbfdf4b58d82a5b4e1c5411ab72b3398ea0b233b35ee75309dbf96e9
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2964,9 +3116,9 @@ entries:
   stashappscodecom-restoresession-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.374959853Z"
+    created: "2021-03-07T08:27:22.996497625Z"
     description: RestoreSession Editor
-    digest: 37690f0950f790da43476d5d5ff63ee29d2c845d79b4ffcdbe38d7f53af38b8f
+    digest: c489fe018d0797ecf4a9dc68de1308a44e70a1b550d6cbcb01bccc163897846d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -2983,9 +3135,9 @@ entries:
   stashappscodecom-task-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.376088373Z"
+    created: "2021-03-07T08:27:22.997348533Z"
     description: Task Editor
-    digest: 5b3decec2bc7e3fd244529f31c5e05e9a2bc194cca213f85d079a7c820725f0f
+    digest: fb3cd002b6d2632c7851b43d0804c0bd3c1df81cdee16acb2d635002c068e771
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3002,9 +3154,9 @@ entries:
   storagek8sio-csidriver-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.376586282Z"
+    created: "2021-03-07T08:27:22.997732336Z"
     description: CSIDriver Editor
-    digest: aa7dbb5afdfd549ce13c486afe170355bbc87ad0c2e31631b1c6854cbc342bb9
+    digest: 6457b52e5c16bf677338966ac5ac89a6c6f201f42a6c25cd4a53f75633ce89fb
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3021,9 +3173,9 @@ entries:
   storagek8sio-csinode-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.377431398Z"
+    created: "2021-03-07T08:27:22.998053739Z"
     description: CSINode Editor
-    digest: bccf8d689f4c610a187bf72dd72ab2ba00b2beb06f72a48fe7c1334cf2327eb5
+    digest: 509d65b11d92634e4aa88fb4e78483e51b238d3cba08eaa25fc2c84cb1984e5b
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3040,9 +3192,9 @@ entries:
   storagek8sio-storageclass-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.377864906Z"
+    created: "2021-03-07T08:27:22.998364642Z"
     description: StorageClass Editor
-    digest: c7e7c6890b34f15e061cb1568cf4377bf71e5d4d59449885cb898bbd3f75879e
+    digest: d14b749ae709122c0f5fba91163c0b9f3826a9e95623ff1b7f82c5d8d43a7e94
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3059,9 +3211,9 @@ entries:
   storagek8sio-volumeattachment-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.378454516Z"
+    created: "2021-03-07T08:27:22.998863047Z"
     description: VolumeAttachment Editor
-    digest: 09f3c990b9487d9fd653d15deca7988dee4a47e439c1642d128bd402d4e2ffcb
+    digest: 31257afb2f627ceefcbe26147457753c50150239e2145567de928094455d2739
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3078,9 +3230,9 @@ entries:
   voyagerappscodecom-certificate-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.378880724Z"
+    created: "2021-03-07T08:27:22.999351151Z"
     description: Certificate Editor
-    digest: a5284c9d55d8e82d88a9f9d44b7704da41df9fdf319f2c2c53a699268ceaff58
+    digest: ed814005c28be313fc71e7527f6172baebf3b03e45a24603a98c29103f21b513
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3097,9 +3249,9 @@ entries:
   voyagerappscodecom-ingress-editor:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2021-02-23T08:35:34.380177248Z"
+    created: "2021-03-07T08:27:23.00033216Z"
     description: Ingress Editor
-    digest: f82cd467194e117ca7087ba860bdc35f48d993a040d08c190ea3aa85401e8ed4
+    digest: a7b2c9b7e8f57568eaf4727fdd448b3d032ce878a186c962ab0ac88165ae858d
     home: https://byte.builders
     icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
     keywords:
@@ -3113,4 +3265,4 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/voyagerappscodecom-ingress-editor/voyagerappscodecom-ingress-editor-v0.1.0.tgz
     version: v0.1.0
-generated: "2021-02-23T08:35:34.236414026Z"
+generated: "2021-03-07T08:27:22.893461066Z"
