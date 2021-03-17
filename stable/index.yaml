@@ -481,6 +481,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2021.03.17
+    created: "2021-03-17T16:31:15.581748827Z"
+    description: Stash Community Plan
+    digest: 0f3ec07b29042a35f8b77462995bb94879d7e6094a7b013da93c8b32dc7feaf6
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2021.03.17.tgz
+    version: v2021.03.17
+  - apiVersion: v2
     appVersion: v2021.03.11
     created: "2021-03-12T13:17:37.769944609Z"
     description: Stash Community Plan
@@ -992,6 +1009,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2021.03.17
+    created: "2021-03-17T16:31:15.582044429Z"
+    description: Stash Enterprise Plan
+    digest: 97aeac52cdb92f48f18e1ac84be69a413b0f6b102dc63d5b7abd54749bb4dd0c
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2021.03.17.tgz
+    version: v2021.03.17
   - apiVersion: v2
     appVersion: v2021.03.11
     created: "2021-03-12T13:17:37.776576422Z"
@@ -2271,4 +2305,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2021-03-12T13:17:37.769449509Z"
+generated: "2021-03-17T16:31:15.581245524Z"
