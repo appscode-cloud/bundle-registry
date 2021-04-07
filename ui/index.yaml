@@ -2220,6 +2220,41 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/metaappscodecom-resourcedescriptor-editor/metaappscodecom-resourcedescriptor-editor-v0.1.0.tgz
     version: v0.1.0
+  mongodb-editor:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-04-07T11:47:52.176550888Z"
+    description: Ui Wizard Chart
+    digest: 5a1bc24a2adc20145fef8ea4f06f9615d2bce6c805867252615f91666091b6e6
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/bytebuilders/bytebuilders-512x512.png
+    keywords:
+    - appscode
+    kubeVersion: '>= 1.14.0'
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: mongodb-editor
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/mongodb-editor/mongodb-editor-v0.1.0.tgz
+    version: v0.1.0
+  mongodb-editor-options:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2021-04-07T11:47:52.186213464Z"
+    description: MongoDB Editor UI Options
+    digest: 9b7d0649ed6ef12d162422f25546994f94a8a4f6b3632241d713e927c7fb7d8c
+    home: https://byte.builders
+    icon: https://cdn.appscode.com/images/products/kubedb/kubedb-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: mongodb-editor-options
+    type: application
+    urls:
+    - https://bundles.byte.builders/ui/mongodb-editor-options/mongodb-editor-options-v0.1.0.tgz
+    version: v0.1.0
   monitoringcoreoscom-alertmanager-editor:
   - apiVersion: v2
     appVersion: v0.1.0
@@ -3265,4 +3300,4 @@ entries:
     urls:
     - https://bundles.byte.builders/ui/voyagerappscodecom-ingress-editor/voyagerappscodecom-ingress-editor-v0.1.0.tgz
     version: v0.1.0
-generated: "2021-03-31T13:27:24.911970935Z"
+generated: "2021-04-07T11:47:52.17029788Z"
