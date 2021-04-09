@@ -515,6 +515,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2021.04.09
+    created: "2021-04-09T10:31:09.041487298Z"
+    description: Stash Community Plan
+    digest: 85092cd92acf496313de6b49f1ca545488f1059b1bb7e5dd00a302eac81c94a9
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2021.04.09.tgz
+    version: v2021.04.09
+  - apiVersion: v2
     appVersion: v2021.04.07
     created: "2021-04-08T00:21:47.283850284Z"
     description: Stash Community Plan
@@ -1060,6 +1077,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2021.04.09
+    created: "2021-04-09T10:31:09.041747302Z"
+    description: Stash Enterprise Plan
+    digest: 781226031525957383fba38a1a8d5d56ad220f5002372285d11585c878337c30
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2021.04.09.tgz
+    version: v2021.04.09
   - apiVersion: v2
     appVersion: v2021.04.07
     created: "2021-04-08T00:21:47.284084081Z"
@@ -2373,4 +2407,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2021-04-08T00:21:47.28336519Z"
+generated: "2021-04-09T10:31:09.041018891Z"
