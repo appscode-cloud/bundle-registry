@@ -515,6 +515,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2021.04.12
+    created: "2021-04-10T13:36:30.594166765Z"
+    description: Stash Community Plan
+    digest: 7b5d5e6190e47cc4ebd1ba1fb14b1a4ba9b783f59414a4f379015574d15521d6
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2021.04.12.tgz
+    version: v2021.04.12
+  - apiVersion: v2
     appVersion: v2021.04.09
     created: "2021-04-09T10:31:09.041487298Z"
     description: Stash Community Plan
@@ -1077,6 +1094,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2021.04.12
+    created: "2021-04-10T13:36:30.594459878Z"
+    description: Stash Enterprise Plan
+    digest: 2fbc7c4bc6c3a77163755f473b60506e1820caa5fc78544679eeca7fe466db34
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2021.04.12.tgz
+    version: v2021.04.12
   - apiVersion: v2
     appVersion: v2021.04.09
     created: "2021-04-09T10:31:09.041747302Z"
@@ -2407,4 +2441,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2021-04-09T10:31:09.041018891Z"
+generated: "2021-04-10T13:36:30.593616142Z"
