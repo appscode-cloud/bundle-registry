@@ -582,6 +582,23 @@ entries:
     version: v2020.10.27-rc.0
   kubeform-community:
   - apiVersion: v2
+    appVersion: v2021.07.01
+    created: "2021-07-03T22:05:50.409373032Z"
+    description: Kubeform Community Plan
+    digest: f87543b459e17716155e25b6e3e69e7468c8339026ccd17a8891e7449465fdea
+    home: https://kubeform.com
+    icon: https://cdn.appscode.com/images/products/kubeform/kubeform-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubeform-community
+    sources:
+    - https://github.com/kubeform
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/kubeform-community/kubeform-community-v2021.07.01.tgz
+    version: v2021.07.01
+  - apiVersion: v2
     appVersion: v2020.10.30
     created: "2020-10-31T04:26:03.365006169Z"
     description: Kubeform Community Plan
@@ -2611,4 +2628,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2021-06-23T11:12:52.549545353Z"
+generated: "2021-07-03T22:05:50.408904526Z"
