@@ -1,5 +1,23 @@
 apiVersion: v1
 entries:
+  csi-vault-community:
+  - apiVersion: v2
+    appVersion: v2021.07.14-rc.0
+    created: "2021-07-15T10:09:17.558251168Z"
+    description: CSI Vault Community Plan
+    digest: a6efc8d1936c7acfc935ce7bd5cee588e6a8457f1b732ef301a7b9272e63c170
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2021.07.14-rc.0.tgz
+    version: v2021.07.14-rc.0
   kubedb-community:
   - apiVersion: v2
     appVersion: v2021.06.23
@@ -2628,4 +2646,22 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/stash-postgres-community/stash-postgres-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
-generated: "2021-07-03T22:05:50.408904526Z"
+  vault-operator-community:
+  - apiVersion: v2
+    appVersion: v2021.07.14-rc.0
+    created: "2021-07-15T10:09:17.559016464Z"
+    description: Vault Operator Community Plan
+    digest: 2e9faa1df763ce4710d6546107c789a703cbdb283c07e8b9983162a69ae14912
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
+    version: v2021.07.14-rc.0
+generated: "2021-07-15T10:09:17.557722771Z"
