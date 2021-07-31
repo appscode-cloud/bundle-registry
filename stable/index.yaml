@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2021.08.02
+    created: "2021-07-31T06:23:06.243627439Z"
+    description: CSI Vault Community Plan
+    digest: f158342e4f72608e3a42cd26fb777607a9512e07e3526fa2bbe1efcdda05483b
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2021.08.02.tgz
+    version: v2021.08.02
+  - apiVersion: v2
     appVersion: v2021.07.14-rc.0
     created: "2021-07-15T10:09:17.558251168Z"
     description: CSI Vault Community Plan
@@ -2682,6 +2699,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2021.08.02
+    created: "2021-07-31T06:23:06.243969049Z"
+    description: Vault Operator Community Plan
+    digest: c60d290e2c50704936abb790a01fa266d665fc6756f80002d8cee4951aa1a50d
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.08.02.tgz
+    version: v2021.08.02
+  - apiVersion: v2
     appVersion: v2021.07.14-rc.0
     created: "2021-07-15T10:09:17.559016464Z"
     description: Vault Operator Community Plan
@@ -2698,4 +2732,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2021-07-28T08:25:44.926091631Z"
+generated: "2021-07-31T06:23:06.243126623Z"
