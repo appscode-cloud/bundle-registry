@@ -703,6 +703,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2021.08.02
+    created: "2021-07-31T12:01:06.65511146Z"
+    description: Stash Community Plan
+    digest: 491a4e81f3cfd08323736fe5cd6aeb0d0f437a738bfc4ffd236244a66ecb9f73
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2021.08.02.tgz
+    version: v2021.08.02
+  - apiVersion: v2
     appVersion: v2021.06.23
     created: "2021-06-18T21:51:33.901738198Z"
     description: Stash Community Plan
@@ -1316,6 +1333,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2021.08.02
+    created: "2021-07-31T12:01:06.655434864Z"
+    description: Stash Enterprise Plan
+    digest: 4d4254e86b4aa3566fb0965258ed96bd1706de024f8f6f74d2fc690694143ea1
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2021.08.02.tgz
+    version: v2021.08.02
   - apiVersion: v2
     appVersion: v2021.06.23
     created: "2021-06-18T21:51:33.902045705Z"
@@ -2732,4 +2766,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2021-07-31T06:23:06.243126623Z"
+generated: "2021-07-31T12:01:06.654703055Z"
