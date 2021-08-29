@@ -52,7 +52,7 @@ function publish_dir() {
             -H "Authorization: Bearer ${CLOUDFLARE_TOKEN}" \
             -H "Content-Type: application/json" \
             --data '{"purge_everything":true}'
-            # --data '{"files":["'${index_url}'"]}'
+        # --data '{"files":["'${index_url}'"]}'
     fi
 }
 
