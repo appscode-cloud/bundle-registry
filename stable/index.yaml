@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2021.10.11
+    created: "2021-10-09T23:35:01.892532186Z"
+    description: CSI Vault Community Plan
+    digest: e06f8913c347289d32fee9c57306cffb75c0b0c17b9ee4e21490b9e225942979
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2021.10.11.tgz
+    version: v2021.10.11
+  - apiVersion: v2
     appVersion: v2021.09.27
     created: "2021-09-27T18:21:08.73171106Z"
     description: CSI Vault Community Plan
@@ -2903,6 +2920,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2021.10.11
+    created: "2021-10-09T23:35:01.89279029Z"
+    description: Vault Operator Community Plan
+    digest: 25bd101acfc99ddcf765c103299e6b5a88d4d1a80b85caab354c3cb62713e73a
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.10.11.tgz
+    version: v2021.10.11
+  - apiVersion: v2
     appVersion: v2021.09.27
     created: "2021-09-27T18:21:08.732040482Z"
     description: Vault Operator Community Plan
@@ -2953,4 +2987,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2021-10-09T21:35:18.339517919Z"
+generated: "2021-10-09T23:35:01.892106778Z"
