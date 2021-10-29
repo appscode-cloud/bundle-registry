@@ -753,6 +753,23 @@ entries:
     version: v2020.10.27-rc.0
   kubeform-community:
   - apiVersion: v2
+    appVersion: v2021.10.29
+    created: "2021-10-29T20:31:12.76589108Z"
+    description: Kubeform Community Plan
+    digest: bd591a2ff731645ebdc63453111253f65787c66e78a69e8dab02fc0d00bda858
+    home: https://kubeform.com
+    icon: https://cdn.appscode.com/images/products/kubeform/kubeform-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubeform-community
+    sources:
+    - https://github.com/kubeform
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/kubeform-community/kubeform-community-v2021.10.29.tgz
+    version: v2021.10.29
+  - apiVersion: v2
     appVersion: v2021.08.02
     created: "2021-08-02T20:22:10.397955737Z"
     description: Kubeform Community Plan
@@ -2987,4 +3004,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2021-10-09T23:35:01.892106778Z"
+generated: "2021-10-29T20:31:12.765391874Z"
