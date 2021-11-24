@@ -941,6 +941,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2021.11.24
+    created: "2021-11-24T13:47:34.770909275Z"
+    description: Stash Community Plan
+    digest: f082a6b9142f4976a405be4e134e13706c76e089af74c0b3eab238d4c921d0e6
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2021.11.24.tgz
+    version: v2021.11.24
+  - apiVersion: v2
     appVersion: v2021.10.11
     created: "2021-10-09T21:35:18.340166529Z"
     description: Stash Community Plan
@@ -1588,6 +1605,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2021.11.24
+    created: "2021-11-24T13:47:34.771304473Z"
+    description: Stash Enterprise Plan
+    digest: 4f93985510ac6ae7d707cc0c05afc5829fc413eb0772df34e4424745f14bde7c
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2021.11.24.tgz
+    version: v2021.11.24
   - apiVersion: v2
     appVersion: v2021.10.11
     created: "2021-10-09T21:35:18.340754938Z"
@@ -3072,4 +3106,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2021-11-24T11:13:57.660328465Z"
+generated: "2021-11-24T13:47:34.770276578Z"
