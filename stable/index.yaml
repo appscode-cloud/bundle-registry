@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2022.01.11
+    created: "2022-01-11T13:41:29.043069525Z"
+    description: CSI Vault Community Plan
+    digest: 695a8eb239e7c19ad497e49c087742a5a6c54005ecb76ac956ec68a88ad3678a
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2022.01.11.tgz
+    version: v2022.01.11
+  - apiVersion: v2
     appVersion: v2021.10.11
     created: "2021-10-09T23:35:01.892532186Z"
     description: CSI Vault Community Plan
@@ -3039,6 +3056,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2022.01.11
+    created: "2022-01-11T13:41:29.044115608Z"
+    description: Vault Operator Community Plan
+    digest: abcc007163cf6f0700610b50c21932a25d7b6aa3b4bcf440980dfb007dc302a8
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2022.01.11.tgz
+    version: v2022.01.11
+  - apiVersion: v2
     appVersion: v2021.10.11
     created: "2021-10-09T23:35:01.89279029Z"
     description: Vault Operator Community Plan
@@ -3106,4 +3140,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2021-11-24T13:47:34.770276578Z"
+generated: "2022-01-11T13:41:29.042228458Z"
