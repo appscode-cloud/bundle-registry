@@ -958,6 +958,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.02.22
+    created: "2022-02-11T12:41:36.593718524Z"
+    description: Stash Community Plan
+    digest: 314dec91d28b4fb1609a436ddf220c82a2ceec4cc354ea830d7b76769cf8dd35
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.02.22.tgz
+    version: v2022.02.22
+  - apiVersion: v2
     appVersion: v2021.11.24
     created: "2021-11-24T13:47:34.770909275Z"
     description: Stash Community Plan
@@ -1622,6 +1639,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.02.22
+    created: "2022-02-11T12:41:36.594023028Z"
+    description: Stash Enterprise Plan
+    digest: 3f48006db32bdd6b7636bd506e1c3b7a3c2acbe6135c797a6714c0093cd533e2
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.02.22.tgz
+    version: v2022.02.22
   - apiVersion: v2
     appVersion: v2021.11.24
     created: "2021-11-24T13:47:34.771304473Z"
@@ -3140,4 +3174,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-01-11T13:41:29.042228458Z"
+generated: "2022-02-11T12:41:36.592430509Z"
