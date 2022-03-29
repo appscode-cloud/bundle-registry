@@ -1043,6 +1043,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.03.29
+    created: "2022-03-29T20:58:04.875115796Z"
+    description: Stash Community Plan
+    digest: 00c9db9e6cea66950b424a656f049754a712157881cd9c3583f93ee6a126f46f
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.03.29.tgz
+    version: v2022.03.29
+  - apiVersion: v2
     appVersion: v2022.02.22
     created: "2022-02-11T12:41:36.593718524Z"
     description: Stash Community Plan
@@ -1724,6 +1741,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.03.29
+    created: "2022-03-29T20:58:04.875957412Z"
+    description: Stash Enterprise Plan
+    digest: 9dfdd910f2ace4d626ccb3e55aa87f1b5f6eb02c6195ae1ed1be6fc7dbcff640
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.03.29.tgz
+    version: v2022.03.29
   - apiVersion: v2
     appVersion: v2022.02.22
     created: "2022-02-11T12:41:36.594023028Z"
@@ -3276,4 +3310,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-03-29T05:38:35.582208317Z"
+generated: "2022-03-29T20:58:04.874635086Z"
