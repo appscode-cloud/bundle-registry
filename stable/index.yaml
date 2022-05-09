@@ -1060,6 +1060,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.05.12
+    created: "2022-05-09T09:51:46.201990847Z"
+    description: Stash Community Plan
+    digest: 34f9871053cf49578a2c25e7a0f3c1062ff84ac7bbb63d5baba3a8501ef68f4e
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.05.12.tgz
+    version: v2022.05.12
+  - apiVersion: v2
     appVersion: v2022.03.29
     created: "2022-03-29T20:58:04.875115796Z"
     description: Stash Community Plan
@@ -1758,6 +1775,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.05.12
+    created: "2022-05-09T09:51:46.202287249Z"
+    description: Stash Enterprise Plan
+    digest: 9fb2becea6d0d536f87305d2acca5d89307149456968203e2c54bac48324bd13
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.05.12.tgz
+    version: v2022.05.12
   - apiVersion: v2
     appVersion: v2022.03.29
     created: "2022-03-29T20:58:04.875957412Z"
@@ -3327,4 +3361,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-05-08T17:11:58.948247837Z"
+generated: "2022-05-09T09:51:46.201425943Z"
