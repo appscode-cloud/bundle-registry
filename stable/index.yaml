@@ -1060,6 +1060,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.05.18
+    created: "2022-05-18T06:26:28.984394894Z"
+    description: Stash Community Plan
+    digest: e80c95011a1ae1752938bc615e0ec0b63faffe09282ec38bba16f5d8d353a789
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.05.18.tgz
+    version: v2022.05.18
+  - apiVersion: v2
     appVersion: v2022.05.12
     created: "2022-05-09T09:51:46.201990847Z"
     description: Stash Community Plan
@@ -1775,6 +1792,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.05.18
+    created: "2022-05-18T06:26:28.984788714Z"
+    description: Stash Enterprise Plan
+    digest: 69ec16dc60d0e4713b882e9827369b0d7d317f8142ddb9f634d4e20cc9bb04a6
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.05.18.tgz
+    version: v2022.05.18
   - apiVersion: v2
     appVersion: v2022.05.12
     created: "2022-05-09T09:51:46.202287249Z"
@@ -3361,4 +3395,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-05-09T09:51:46.201425943Z"
+generated: "2022-05-18T06:26:28.983678758Z"
