@@ -1111,6 +1111,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.06.27
+    created: "2022-06-27T10:09:42.942410959Z"
+    description: Stash Community Plan
+    digest: 7a2a48998cc2ab8cf5cef04771858d77774449ee5683144b6eb54585d701069a
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.06.27.tgz
+    version: v2022.06.27
+  - apiVersion: v2
     appVersion: v2022.06.21
     created: "2022-06-17T13:59:29.957006095Z"
     description: Stash Community Plan
@@ -1860,6 +1877,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.06.27
+    created: "2022-06-27T10:09:42.94268256Z"
+    description: Stash Enterprise Plan
+    digest: 62b1de6872fba116fb26474eef11a650477f9ec70f7abe0c46f5a387206da08e
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.06.27.tgz
+    version: v2022.06.27
   - apiVersion: v2
     appVersion: v2022.06.21
     created: "2022-06-17T13:59:29.957372105Z"
@@ -3497,4 +3531,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-06-17T13:59:29.956384779Z"
+generated: "2022-06-27T10:09:42.941931658Z"
