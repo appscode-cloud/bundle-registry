@@ -1111,6 +1111,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.07.09
+    created: "2022-07-09T15:02:34.486420331Z"
+    description: Stash Community Plan
+    digest: 5916dda6370960cd9d8a99f16798bda7ee718e4bff9bc4a816d1e7485987a1b7
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.07.09.tgz
+    version: v2022.07.09
+  - apiVersion: v2
     appVersion: v2022.06.27
     created: "2022-06-27T10:09:42.942410959Z"
     description: Stash Community Plan
@@ -1877,6 +1894,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.07.09
+    created: "2022-07-09T15:02:34.48665753Z"
+    description: Stash Enterprise Plan
+    digest: bf21a15281c9655ad97d3a100af71ce8672cfe386030bc37fcb4b167ad313a93
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.07.09.tgz
+    version: v2022.07.09
   - apiVersion: v2
     appVersion: v2022.06.27
     created: "2022-06-27T10:09:42.94268256Z"
@@ -3531,4 +3565,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-06-27T10:09:42.941931658Z"
+generated: "2022-07-09T15:02:34.485981232Z"
