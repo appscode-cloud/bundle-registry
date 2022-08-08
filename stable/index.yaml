@@ -123,9 +123,9 @@ entries:
   kubedb-community:
   - apiVersion: v2
     appVersion: v2022.08.08
-    created: "2022-08-05T15:56:59.661087857Z"
+    created: "2022-08-08T10:26:03.436540501Z"
     description: KubeDB Community Plan
-    digest: 00d879d123c4ff5d280a291a0d4b137f5431a17d5d6681660ff3bc43104763a1
+    digest: 6c5220d74461170194d03d4661204a2787edbd9c6752e3f5ea526e870ec14485
     home: https://kubedb.com
     icon: https://cdn.appscode.com/images/icon/kubedb.png
     maintainers:
@@ -600,9 +600,9 @@ entries:
   kubedb-enterprise:
   - apiVersion: v2
     appVersion: v2022.08.08
-    created: "2022-08-05T15:56:59.661448681Z"
+    created: "2022-08-08T10:26:03.437085703Z"
     description: KubeDB Enterprise Plan
-    digest: ee27a8c3719fa965fafd424b7dbb146468ef6f2a7b51a0aab82694a25e3be447
+    digest: ef1a54ae039ca4d42699926ead089d830178edefa5338771c962ec81605a998b
     home: https://kubedb.com
     icon: https://cdn.appscode.com/images/icon/kubedb.png
     maintainers:
@@ -3667,4 +3667,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-08-05T15:56:59.660489417Z"
+generated: "2022-08-08T10:26:03.435954899Z"
