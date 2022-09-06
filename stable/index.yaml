@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2022.09.05-rc.0
+    created: "2022-09-06T06:03:29.518857015Z"
+    description: CSI Vault Community Plan
+    digest: e3f1f8a4fa7282c84899d8f3ea5cd2765b302d7db91ad51426eafd4f58339623
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2022.09.05-rc.0.tgz
+    version: v2022.09.05-rc.0
+  - apiVersion: v2
     appVersion: v2022.06.16
     created: "2022-06-10T11:03:16.684697735Z"
     description: CSI Vault Community Plan
@@ -3549,6 +3566,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2022.09.05-rc.0
+    created: "2022-09-06T06:03:29.519187418Z"
+    description: Vault Operator Community Plan
+    digest: 0ead769199303873bc500b995a1a829245e50079a6d5d9b403ef28f3af21ee71
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2022.09.05-rc.0.tgz
+    version: v2022.09.05-rc.0
+  - apiVersion: v2
     appVersion: v2022.06.16
     created: "2022-06-10T11:03:16.685026337Z"
     description: Vault Operator Community Plan
@@ -3667,4 +3701,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-08-08T10:26:03.435954899Z"
+generated: "2022-09-06T06:03:29.518370309Z"
