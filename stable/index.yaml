@@ -1264,6 +1264,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2022.09.29
+    created: "2022-09-26T21:16:45.607204992Z"
+    description: Stash Community Plan
+    digest: 561d8bbe548527ea7e6257ca3dc896ed5f42c370a4fd383a4e8188088722a87d
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2022.09.29.tgz
+    version: v2022.09.29
+  - apiVersion: v2
     appVersion: v2022.07.09
     created: "2022-07-09T15:02:34.486420331Z"
     description: Stash Community Plan
@@ -2047,6 +2064,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2022.09.29
+    created: "2022-09-26T21:16:45.607468791Z"
+    description: Stash Enterprise Plan
+    digest: a9f09bee5472a9f57b37c349f0713ad2c4022569c82cc86eb7dd9a36ad7411d9
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2022.09.29.tgz
+    version: v2022.09.29
   - apiVersion: v2
     appVersion: v2022.07.09
     created: "2022-07-09T15:02:34.48665753Z"
@@ -3769,4 +3803,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-09-22T09:23:40.811609524Z"
+generated: "2022-09-26T21:16:45.606736294Z"
