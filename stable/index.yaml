@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2022.11.30
+    created: "2022-11-30T09:37:20.505458775Z"
+    description: CSI Vault Community Plan
+    digest: 5d6d4ddd3f8236c9b4c443d47fd7321dcb0e9bf295373038b673f55837da2f74
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2022.11.30.tgz
+    version: v2022.11.30
+  - apiVersion: v2
     appVersion: v2022.09.22
     created: "2022-09-22T09:23:40.812164831Z"
     description: CSI Vault Community Plan
@@ -3702,6 +3719,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2022.11.30
+    created: "2022-11-30T09:37:20.505677653Z"
+    description: Vault Operator Community Plan
+    digest: 2cc7dcc94f5a0f19a4cdb4c31445f4f13246c9f04c4fb96fa8f062df385e98a2
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2022.11.30.tgz
+    version: v2022.11.30
+  - apiVersion: v2
     appVersion: v2022.09.22
     created: "2022-09-22T09:23:40.812459234Z"
     description: Vault Operator Community Plan
@@ -3871,4 +3905,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-10-15T19:31:22.754156996Z"
+generated: "2022-11-30T09:37:20.505037339Z"
