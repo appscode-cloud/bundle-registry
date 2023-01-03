@@ -1485,6 +1485,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2023.01.05
+    created: "2023-01-03T13:55:51.672340986Z"
+    description: Stash Community Plan
+    digest: 17027133eb15003d6b3d66e14a3e007943cdbce5acdaeb82d43ea41c81a61bba
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2023.01.05.tgz
+    version: v2023.01.05
+  - apiVersion: v2
     appVersion: v2022.12.11
     created: "2022-12-11T15:08:43.010442086Z"
     description: Stash Community Plan
@@ -2302,6 +2319,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2023.01.05
+    created: "2023-01-03T13:55:51.672603087Z"
+    description: Stash Enterprise Plan
+    digest: 3958d68bf6a42b0fea0b3f5bb3f3a6719277e175d43fce17ab62fba49cb04230
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2023.01.05.tgz
+    version: v2023.01.05
   - apiVersion: v2
     appVersion: v2022.12.11
     created: "2022-12-11T15:08:43.010781287Z"
@@ -4109,4 +4143,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2022-12-28T12:52:27.994717485Z"
+generated: "2023-01-03T13:55:51.671894485Z"
