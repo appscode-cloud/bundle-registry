@@ -1587,6 +1587,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2023.02.28
+    created: "2023-03-01T09:54:52.941527918Z"
+    description: Stash Community Plan
+    digest: 99fb7a8d3fc8c8413ce957eeef002a8e83800c8962fd315ae117bc9acd9ba57f
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2023.02.28.tgz
+    version: v2023.02.28
+  - apiVersion: v2
     appVersion: v2023.01.05
     created: "2023-01-03T13:55:51.672340986Z"
     description: Stash Community Plan
@@ -2421,6 +2438,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2023.02.28
+    created: "2023-03-01T09:54:52.94197973Z"
+    description: Stash Enterprise Plan
+    digest: b8a41a0a62128b9b539a9cb3991ec221c1ac386122252e19613b29968b9c1450
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2023.02.28.tgz
+    version: v2023.02.28
   - apiVersion: v2
     appVersion: v2023.01.05
     created: "2023-01-03T13:55:51.672603087Z"
@@ -4245,4 +4279,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2023-02-28T19:31:55.239736684Z"
+generated: "2023-03-01T09:54:52.934026318Z"
