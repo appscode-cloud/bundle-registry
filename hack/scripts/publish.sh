@@ -39,8 +39,8 @@ function publish_dir() {
     # helm repo index $repo_dir/ --url https://${REPO_DOMAIN}/$repo_dir/
 
     # sync charts
-    gsutil -m rsync -d -r $repo_dir gs://${BUCKET}/$repo_dir
-    gsutil -m acl ch -u AllUsers:R -r gs://${BUCKET}/$repo_dir
+    gsutil -m rsync -a public-read -d -r $repo_dir gs://${BUCKET}/$repo_dir
+    # gsutil -m acl ch -u AllUsers:R -r gs://${BUCKET}/$repo_dir
 
     # invalidate cache
     # ref: https://api.cloudflare.com/#zone-purge-files-by-url
