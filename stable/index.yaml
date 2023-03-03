@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2023.03.03
+    created: "2023-03-03T22:35:39.138744786Z"
+    description: CSI Vault Community Plan
+    digest: 4ff7d27c1197df74aa2335adfa96f4bfae829f58954eb49852bb1f6e674897eb
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2023.03.03.tgz
+    version: v2023.03.03
+  - apiVersion: v2
     appVersion: v2022.12.28
     created: "2022-12-28T12:43:26.458319938Z"
     description: CSI Vault Community Plan
@@ -4059,6 +4076,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2023.03.03
+    created: "2023-03-03T22:35:39.139668829Z"
+    description: Vault Operator Community Plan
+    digest: 61954cc75180e9c2535622e2ca30284ccf5c0c6a5494c935ae0869c46a746c17
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2023.03.03.tgz
+    version: v2023.03.03
+  - apiVersion: v2
     appVersion: v2022.12.28
     created: "2022-12-28T12:43:26.458632841Z"
     description: Vault Operator Community Plan
@@ -4279,4 +4313,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2023-03-01T09:54:52.934026318Z"
+generated: "2023-03-03T22:35:39.138134558Z"
