@@ -1604,6 +1604,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2023.03.13
+    created: "2023-03-13T08:36:15.368420328Z"
+    description: Stash Community Plan
+    digest: 0ca6e0113e5d60d1abeb0cc4c52b96313ce68a3c6ec51337829cf832a1a7ebad
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2023.03.13.tgz
+    version: v2023.03.13
+  - apiVersion: v2
     appVersion: v2023.02.28
     created: "2023-03-01T09:54:52.941527918Z"
     description: Stash Community Plan
@@ -2455,6 +2472,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2023.03.13
+    created: "2023-03-13T08:36:15.368770749Z"
+    description: Stash Enterprise Plan
+    digest: d3df1f02bf37b192ed25cf5bff44ae31a057f113706a78718ecd1e800bc5bac9
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2023.03.13.tgz
+    version: v2023.03.13
   - apiVersion: v2
     appVersion: v2023.02.28
     created: "2023-03-01T09:54:52.94197973Z"
@@ -4313,4 +4347,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2023-03-03T22:35:39.138134558Z"
+generated: "2023-03-13T08:36:15.366905839Z"
