@@ -41,5 +41,6 @@ jobs:
 
       - name: Publish OCI charts
         run: |
-          export REGISTRY_1=oci://ghcr.io/appscode-charts
-          ./hack/scripts/publish-oci-stable.sh ui
+          REGISTRY_0=oci://ghcr.io/appscode-charts \
+          CHARTS_DIR=ui \
+          ./hack/scripts/publish-oci-stable.sh
