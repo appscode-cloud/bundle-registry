@@ -1655,6 +1655,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2023.05.31
+    created: "2023-05-30T01:05:12.289573575Z"
+    description: Stash Community Plan
+    digest: 3d6c5527226567569adbf5171e46cb283c2eb87e17b905c4ac791eda1a9f6315
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2023.05.31.tgz
+    version: v2023.05.31
+  - apiVersion: v2
     appVersion: v2023.04.30
     created: "2023-05-01T07:11:39.827480692Z"
     description: Stash Community Plan
@@ -2557,6 +2574,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2023.05.31
+    created: "2023-05-30T01:05:12.290450291Z"
+    description: Stash Enterprise Plan
+    digest: d806789d0c0b69ccd1a2b6274584f1ca787c3840321ec350db16b5cb00fd01e3
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2023.05.31.tgz
+    version: v2023.05.31
   - apiVersion: v2
     appVersion: v2023.04.30
     created: "2023-05-01T07:11:39.827732508Z"
@@ -4483,4 +4517,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2023-05-05T16:39:07.397039406Z"
+generated: "2023-05-30T01:05:12.289096167Z"
