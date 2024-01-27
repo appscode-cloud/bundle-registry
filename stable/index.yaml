@@ -275,6 +275,23 @@ entries:
     version: v2021.07.14-rc.0
   kubedb-community:
   - apiVersion: v2
+    appVersion: v2024.1.26-rc.0
+    created: "2024-01-27T10:19:49.165431636Z"
+    description: KubeDB Community Plan
+    digest: 48f686cf1f8f7a5464983489b1b44a085377ba1b893ca20685d6b35702604260
+    home: https://kubedb.com
+    icon: https://cdn.appscode.com/images/icon/kubedb.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedb-community
+    sources:
+    - https://github.com/kubedb
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/kubedb-community/kubedb-community-v2024.1.26-rc.0.tgz
+    version: v2024.1.26-rc.0
+  - apiVersion: v2
     appVersion: v2023.12.28
     created: "2023-12-27T21:52:31.361875068Z"
     description: KubeDB Community Plan
@@ -1074,6 +1091,23 @@ entries:
     - https://bundles.byte.builders/stable/kubedb-community/kubedb-community-v2020.10.27-rc.0.tgz
     version: v2020.10.27-rc.0
   kubedb-enterprise:
+  - apiVersion: v2
+    appVersion: v2024.1.26-rc.0
+    created: "2024-01-27T10:19:49.165624697Z"
+    description: KubeDB Enterprise Plan
+    digest: 2a83506c879c330bb64cafa22db9a1c01ec6fb24c0295820b7327efd45d01b2c
+    home: https://kubedb.com
+    icon: https://cdn.appscode.com/images/icon/kubedb.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: kubedb-enterprise
+    sources:
+    - https://github.com/kubedb
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/kubedb-enterprise/kubedb-enterprise-v2024.1.26-rc.0.tgz
+    version: v2024.1.26-rc.0
   - apiVersion: v2
     appVersion: v2023.12.28
     created: "2023-12-27T21:52:31.362066155Z"
@@ -4959,4 +4993,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2023-12-27T21:52:31.361540632Z"
+generated: "2024-01-27T10:19:49.165147944Z"
