@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   csi-vault-community:
   - apiVersion: v2
+    appVersion: v2024.1.31
+    created: "2024-01-31T19:52:54.650438791Z"
+    description: CSI Vault Community Plan
+    digest: d3d6c6abc62f00356f5cd449a983ef551dc99c10e7cae535363336930714ed08
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: csi-vault-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/csi-vault-community/csi-vault-community-v2024.1.31.tgz
+    version: v2024.1.31
+  - apiVersion: v2
     appVersion: v2024.1.28-rc.1
     created: "2024-01-28T12:39:04.489205799Z"
     description: CSI Vault Community Plan
@@ -4790,6 +4807,23 @@ entries:
     version: v2020.08.26-rc.0
   vault-operator-community:
   - apiVersion: v2
+    appVersion: v2024.1.31
+    created: "2024-01-31T19:52:54.650619208Z"
+    description: Vault Operator Community Plan
+    digest: e07825a70a4e24e73b016c54627e842dda020bc5588fcca5fd8d4d8e0ba21675
+    home: https://kubevault.com
+    icon: https://cdn.appscode.com/images/products/kubevault/icons/android-icon-192x192.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: vault-operator-community
+    sources:
+    - https://github.com/kubevault
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2024.1.31.tgz
+    version: v2024.1.31
+  - apiVersion: v2
     appVersion: v2024.1.28-rc.1
     created: "2024-01-28T12:39:04.489416723Z"
     description: Vault Operator Community Plan
@@ -5095,4 +5129,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2024-01-29T02:47:14.833605361Z"
+generated: "2024-01-31T19:52:54.650117602Z"
