@@ -2165,6 +2165,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2024.2.9-rc.0
+    created: "2024-02-10T04:36:09.327993022Z"
+    description: Stash Community Plan
+    digest: 0a6e1aebd045194786306c0eee8b7a157870bf6653f13c3efbabbe63922b9038
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2024.2.9-rc.0.tgz
+    version: v2024.2.9-rc.0
+  - apiVersion: v2
     appVersion: v2023.10.9
     created: "2023-10-04T22:42:38.277100758Z"
     description: Stash Community Plan
@@ -3118,6 +3135,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2024.2.9-rc.0
+    created: "2024-02-10T04:36:09.328191862Z"
+    description: Stash Enterprise Plan
+    digest: c7d9a7a5853acb76f39a5b8ee5d9b4fc12a63807b5afbdf7f7e0ed18d96844d5
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2024.2.9-rc.0.tgz
+    version: v2024.2.9-rc.0
   - apiVersion: v2
     appVersion: v2023.10.9
     created: "2023-10-04T22:42:38.277340864Z"
@@ -5163,4 +5197,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2024-02-02T05:45:08.84023414Z"
+generated: "2024-02-10T04:36:09.327711086Z"
