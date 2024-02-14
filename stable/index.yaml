@@ -2165,6 +2165,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2024.2.13
+    created: "2024-02-14T01:12:55.044025363Z"
+    description: Stash Community Plan
+    digest: 2156e39c0a225e7afe3058a44c798da9e525a8362cd34fd8142c8ce66ce83171
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2024.2.13.tgz
+    version: v2024.2.13
+  - apiVersion: v2
     appVersion: v2024.2.9-rc.0
     created: "2024-02-10T04:36:09.327993022Z"
     description: Stash Community Plan
@@ -3135,6 +3152,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2024.2.13
+    created: "2024-02-14T01:12:55.044193845Z"
+    description: Stash Enterprise Plan
+    digest: aabeb448f46b1251355f62bc80dabe7724b17f2c4223c5408cefc18f848e8ee7
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2024.2.13.tgz
+    version: v2024.2.13
   - apiVersion: v2
     appVersion: v2024.2.9-rc.0
     created: "2024-02-10T04:36:09.328191862Z"
@@ -5197,4 +5231,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2024-02-10T04:36:09.327711086Z"
+generated: "2024-02-14T01:12:55.043697465Z"
