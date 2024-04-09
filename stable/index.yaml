@@ -2284,6 +2284,23 @@ entries:
     version: v2020.10.13
   stash-community:
   - apiVersion: v2
+    appVersion: v2024.4.8
+    created: "2024-04-09T01:36:48.395994951Z"
+    description: Stash Community Plan
+    digest: 7fc6771f3bf7d681e21d067d4ae06e133ccb5b3143cb8ef2f656ec63416d9298
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-community-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-community
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-community/stash-community-v2024.4.8.tgz
+    version: v2024.4.8
+  - apiVersion: v2
     appVersion: v2024.2.13
     created: "2024-02-14T01:12:55.044025363Z"
     description: Stash Community Plan
@@ -3271,6 +3288,23 @@ entries:
     - https://bundles.byte.builders/stable/stash-elasticsearch-community/stash-elasticsearch-community-v2020.08.26-rc.0.tgz
     version: v2020.08.26-rc.0
   stash-enterprise:
+  - apiVersion: v2
+    appVersion: v2024.4.8
+    created: "2024-04-09T01:36:48.396181772Z"
+    description: Stash Enterprise Plan
+    digest: f1d9683f3fe0105a1e982f59b056c4c51fc742b74dd4b2ee5839bd2c542a78df
+    home: https://stash.run
+    icon: https://cdn.appscode.com/images/products/stash/stash-enterprise-icon.png
+    maintainers:
+    - email: support@appscode.com
+      name: appscode
+    name: stash-enterprise
+    sources:
+    - https://github.com/stashed
+    type: application
+    urls:
+    - https://bundles.byte.builders/stable/stash-enterprise/stash-enterprise-v2024.4.8.tgz
+    version: v2024.4.8
   - apiVersion: v2
     appVersion: v2024.2.13
     created: "2024-02-14T01:12:55.044193845Z"
@@ -5367,4 +5401,4 @@ entries:
     urls:
     - https://bundles.byte.builders/stable/vault-operator-community/vault-operator-community-v2021.07.14-rc.0.tgz
     version: v2021.07.14-rc.0
-generated: "2024-03-17T13:33:59.67958041Z"
+generated: "2024-04-09T01:36:48.395663007Z"
